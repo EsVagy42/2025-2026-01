@@ -8,7 +8,8 @@
 # Innovatív vállalkozás management
 
 - **destruktív innováció**
-    - az előző dolgot leváltja, fölöslegessé teszi
+    - ~az előző dolgot leváltja, fölöslegessé teszi~
+    - megváltoztatja az életünk
     - példák
         - AI
     - **innováció**
