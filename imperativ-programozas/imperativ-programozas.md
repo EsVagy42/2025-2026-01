@@ -88,3 +88,12 @@
 ### C
 
 - header fájlok
+
+# Programozás
+
+- compile-olt
+- interpret-ált
+
+Az inkludált header file-ban definiáljuk a függvényeket, így a compiler működik, majd a linker összekapcsolja az implementációjával.
+
+A `#define` compile time konstans, a `const` runtime konstans.
