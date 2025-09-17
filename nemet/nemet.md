@@ -1,4 +1,4 @@
-# Kiejtések
+# 1. óra
 
 ## Különbség a magyartól
 
@@ -147,3 +147,144 @@
     - die nőnem
     - das semleges
 
+# 2. óra
+
+## Kérdések
+
+- Wie heißt du? / Was ist dein Name? / Wer bist du?
+    - Ich bin Peter.
+    - Ich heiße Peter.
+- Wer seid ihr?
+    - Wir sind Peter und Anna.
+- Wie heißen Sie? / Wer sind Sie?
+- Woher kommst du?
+    - Ich komme aus Ungarn.
+- Woher kommt ihr?
+- Woher kommen Sie?
+- Wo wohnst du?
+    - Ich wohne in Budapest.
+- Wo wohnt ihr?
+    - Ihr wohnt in Budapest.
+- Wo wohnen Sie?
+- Was trinkst du (gern)? / Was machst du?
+    - Ich trinke gern Bier.
+- Was macht ihr?
+- Was machen Sie?
+- Was trinkt ihr?
+- Was trinken Sie?
+
+## Köszönések
+
+### Köszönés
+
+#### Formális
+
+- Guten Tag/Morgen/Abend!
+- Gute Nacht!
+- Grüs Gott!
+- Grüezi!
+- Halo!
+
+#### Informális
+
+- Hallo!
+- Servus!
+- Moin!
+- Hoi!
+
+### Elköszönés
+
+#### Formális
+
+- Auf Wiedersehen!
+    - Auf Wiederhören!
+- Aut Wiederschauen!
+- Bis morgen!
+- Bis bald!
+- Bis später!
+- Bis gleich!
+- Mach's gut!
+
+#### Informális
+
+- Tschüss!
+- Tschau!
+
+## Számok
+
+0. null
+1. eins
+2. zwei
+3. drei
+4. vier
+5. fünf
+6. sechs
+7. sieben
+8. acht
+9. neun
+10. zehn
+11. elf
+12. zwölf
+13. dreizehn
+14. vierzehn
+15. fünfzehn
+16. sechzehn
+17. siebzehn
+18. achtzehn
+19. neunzehn
+20. zwanzig
+21. einundzwanzig
+22. zweiundzwanzig
+23. dreiundzwanzig
+24. vierundzwanzig
+
+...
+
+30. dreißig
+
+...
+
+40. vierzig
+
+...
+
+50. fünfzig
+
+...
+
+60. sechzig
+
+...
+
+70. siebzig
+
+...
+
+100. einhundert
+
+...
+
+1000. tausend
+
+## Kérdések megint
+
+- Wie alt bist du?
+    - Ich bin achtzehn Jahre alt.
+- Wie alt seid ihr?
+- Wie alt sind Sie?
+- Und du?
+- Und ihr?
+- Und Sie?
+- Wie geht's? / Wie geht es dir?
+    - positive Antworten
+        - Es geht mir (sehr) gut/fantastisch/super/glücklich/prima!
+    - neutral Antworten
+        - Es geht mir ok. Und dir?
+        - Es geht.
+        - Nicht schlecht.
+        - Wie immer.
+    - negative Antworten
+        - Es geht mir nicht so gut.
+        - Es geht mir (sehr) schlecht.
+        - Es geht mir schrecklich.
+    
