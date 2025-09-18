@@ -54,3 +54,29 @@ inc x = x + 1
 - kiértékelés lehet
     - **mohó**
     - **lusta**
+- a kiértékelési sorrend közömbös
+    - mert a függvények tiszták
+        - értékek nem változhatnak
+        - mellékhatások teljes hiánya
+    - **ha kijön az eredmény**
+        - nem mindig jön ki az eredmény mohóval, viszont gyorsabb
+        - a lustával kijön az eredmény, ha van
+        - `g x = g x`
+            - nem kiszámítható
+- clean vs haskell
+    - clean-ban a számok és az alap függvények a standard könyvtár része
+    - haskell-ben ez a nyelv része
+- **precedencia**
+    - műveletek kötése, zárójelezés szabálya
+    - meghatározza, hogy melyik függvény melyik argumentuma
+- **`..` még mindig számtani sorozat**
+- **a `[]` azt jelenti, hogy a tárolási módszer lista**
+    - tehát a `[1..10]` beleteszi egy listába a számtani sorozat értékeit
+- **a konstansok függvények, amik magukat adják vissza**
+- `[0:[1, 2]] ++ [3, 4, 5]`
+    - a `:` egy számot és egy listát fűz össze
+        - balról egy számot jobbról egy listát vár *mindig*
+        - gyorsabb mint a `++`
+    - a `++` két listát fűz össze
+- magasabb rendű függvény
+    - egy függvény a paramétere
