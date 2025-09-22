@@ -57,4 +57,12 @@
 
 ### Utastájékoztatás
 
-- 
+## A vállalkozás külső környezete
+
+### Kompetitív környezet
+
+- verseny
+
+### Általános környezet
+
+- Terjedési modell
