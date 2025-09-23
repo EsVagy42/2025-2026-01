@@ -97,3 +97,31 @@
 Az inkludált header file-ban definiáljuk a függvényeket, így a compiler működik, majd a linker összekapcsolja az implementációjával.
 
 A `#define` compile time konstans, a `const` runtime konstans.
+
+## Típusok megint
+
+```c
+float how_much = 5 / 2; // how_much = 2
+```
+
+### Float
+
+$$(-1)^s*m*2^e$$
+- s: előjel
+    - negatív -e
+    - 1 bit
+- m: mantissza
+    - 23 bit
+    - 1-es az elején implicit
+- e: exponens
+    - 8 bit
+    - 2 hatványa
+    - 127-et ki kell vonni belőle
+
+#### Crazy dolgok (hell nah)
+
+- alul és túlcsordulás
+- pozitív és negatív nullák (like what the heeeel?)
+- végtelenek (at least it is useful)
+- NaN (this is useful too)
+- denormalizált számok (ez mit jelent?)
