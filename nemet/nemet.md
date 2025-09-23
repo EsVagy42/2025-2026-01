@@ -149,7 +149,7 @@
 
 # 2. óra
 
-## Kérdések
+## Kérdések - Fragen
 
 - Wie heißt du? / Was ist dein Name? / Wer bist du?
     - Ich bin Peter.
@@ -288,3 +288,8 @@
         - Es geht mir (sehr) schlecht.
         - Es geht mir schrecklich.
     
+# 3. óra
+
+## Szavak
+
+- auch - szintén `Ich komme auch Budapest.`
