@@ -293,3 +293,107 @@
 ## Szavak
 
 - auch - szintén `Ich komme auch Budapest.`
+
+# 4. óra
+
+## die Familie
+
+der Opa, der Großvater
+: nagyapa
+
+der Oma, die Großmutter
+: nagymama
+
+die Großväter
+: nagyapák
+
+die Eltern
+: szülők
+
+die Vater
+: apa
+
+die Mutter
+: anya
+
+der Ehemann
+: férj
+
+die Ehefrau
+: feleség
+
+das Ehepaar
+: házaspár
+
+der Bruder
+: testvér
+
+der Brüder
+: testvérek
+
+die Schwester
+: lánytestvér
+
+die Schwestern
+: lánytestvérek
+
+die Geschwister
+: testvérek
+
+der Sohn
+: fia
+
+die Tochter
+: lánya
+
+die Kinder
+: gyerekek
+
+das Kind
+: gyerek
+
+der Enkel
+: unoka
+
+die Enkelin
+: lány unoka
+
+die Enkelkinder
+: unokák
+
+die Cousine
+: unokatestvér lány
+
+der Cousin
+: unokatestvér
+
+nennen
+: nevezni
+
+verheiratet
+: házasok
+
+Polizist
+: rendőr
+
+Polizistin
+: rendőrnő
+
+Stunde
+: óra
+
+Ich habe auch einen Bruder.
+
+## Számok
+
+| tagadás | nem |
+| --- | --- |
+| keine | lány |
+| keinen | fiú |
+
+| egy | nem |
+| --- | --- |
+| eine | lány |
+| einen | fiú |
+
+több számnál nincs ilyen szabály
