@@ -40,4 +40,4 @@
 `&2`
 : stderr
 
-- **viszont a `2>` `&` nélkül irányítja a stderr-t valamelyik fájlba
+- **viszont a `2>` `&` nélkül irányítja a stderr-t valamelyik fájlba**
