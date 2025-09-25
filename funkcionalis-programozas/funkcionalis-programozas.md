@@ -80,3 +80,44 @@ inc x = x + 1
     - a `++` két listát fűz össze
 - magasabb rendű függvény
     - egy függvény a paramétere
+
+- egy rekurzív függvénynél kell egy alapeset, ami felé haladunk különben sosem lesz vége
+    - az alapesetet az első helyre kell tenni
+- az eredményre kell koncentrálni a kiszámolás csak ajándék
+- a `(String, [Real])` egy tuple stringgel és egy real tömbbel
+- kapcsoszárójeles szétválasztás: tulajdonképpen switch case guardokkal
+- `otherwise` egy függvény ami mindig `True`-t ad vissza, a guard-okban lehet használni ami minden mást catchel
+- típushelyesség nagyon menő
+    - nem runtime szarja össze magát a program
+
+másodfokú függvényt megoldó haskell kód:
+``` haskell
+module Mod where
+
+quad :: Float -> Float -> Float -> [Float]
+quad a b c
+  | d < 0 = []
+  | d == 0 = [(-b) / 2 * a] -- ezt ne csináljuk mert a floatok elég crazyn működnek
+  | otherwise = [(-b - r) / 2 * a, (-b + r) / 2 * a]
+  where
+    determinant :: Float -> Float -> Float -> Float
+    determinant a b c = b * b - 4 * a * c
+    d = determinant a b c
+    r = sqrt d
+```
+
+## 8 királynő problémában az állás leírható
+
+- 64 bittel
+- koordináta int párokkal
+- de egy 8 hosszú egészek sorozatával is, mivel minden sorban csak egy királynő lehet
+    - ezt használjuk majd
+
+## Haskell izék
+
+- **haskellben a listák láncolt listák**
+    - **ezért az elejére a legegyszerűbb a beszúrás**
+- **haskellben az indexelés a `!!` operátorral működik**
+    - pl `b !! 2` a `b` tömb 2. eleme
+- **haskellben 0-tól van az indexelés**
+    - mert c-ben is így van
