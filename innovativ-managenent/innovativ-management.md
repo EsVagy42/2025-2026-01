@@ -66,3 +66,23 @@
 ### Általános környezet
 
 - Terjedési modell
+
+## Management
+
+- leadership vs management
+
+### Leadership
+
+- elmélet
+- személyek inspirálása, befolyásolása
+- jól kommunikál
+- pl.
+    - Steve Jobs
+- delegálás
+    - ez nem egy c# keyword?
+    - egy szervezetben egy adott szintű vezető feladatokkal bíz meg alatta álló személyeket
+
+### Management
+
+- gyakorlat
+- célok eléréséhez vezető út megvalósítása
