@@ -397,3 +397,42 @@ Ich habe auch einen Bruder.
 | einen | fiú |
 
 több számnál nincs ilyen szabály
+
+# 5. óra
+
+| eset | er | sie | es | többesszám |
+| --- | --- | --- | --- | --- |
+| Nom. A. | der | die | das | die |
+| Akk. T. | den | die | das | die |
+
+| eset | M. | F. | N. | Pl. |
+| --- | --- | --- | --- | --- |
+| A. | mein | meine | mein | meine |
+| T. | meinen | meine | mein | meine |
+| A. | kein | keine | kein | keine |
+| T. | keinen | keine | kein | keine |
+
+- Ich habe keinen Bruder.
+- Ich habe keine Schwester.
+- Ich habe kein Baby.
+- Ich habe keine Gr.
+
+- Wie heißt dein Vater?
+- Wie heißt deine Mutter?
+- Wie alt ist dein Vater?
+- Wie alt ist er/sie?
+- Was macht er/sie?
+- Was machen deine Eltern?
+- Was machen sie?
+- Woher kommt er/sie?
+- Woher kommen Sie?
+- Wo wohnt er/sie?
+- Woher kommt er/sie?
+- Woher kommen sie?
+
+## Szavak
+
+| szó | megfelelő |
+| --- | --- |
+| e Sprache, -n | nyelv |
+| e Fremdsprachen, -n | idegennyelv |
