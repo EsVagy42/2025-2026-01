@@ -411,6 +411,8 @@ több számnál nincs ilyen szabály
 | T. | meinen | meine | mein | meine |
 | A. | kein | keine | kein | keine |
 | T. | keinen | keine | kein | keine |
+| A. | ein | eine | ein | eine |
+| T. | einen | eine | ein | eine |
 
 - Ich habe keinen Bruder.
 - Ich habe keine Schwester.
@@ -436,3 +438,124 @@ több számnál nincs ilyen szabály
 | --- | --- |
 | e Sprache, -n | nyelv |
 | e Fremdsprachen, -n | idegennyelv |
+
+# 6. óra
+
+- Er ist ein/der Vater.
+    - Ich habe einen/den Vater.
+- Sie ist eine/die Mutter.
+    - Sie ist eine/die Mutter.
+- Sie ist ein/das Mädchen.
+    - Sie ist ein/das Baby.
+
+- Sie wohnt in Salzburg. Sie kommt aus Österreich.
+    - Sie wohnt in Salzburg und kommt aus Österreich.
+
+- Er hat viele hobbys. Zum Beispiel kochen, Tennis spielen.
+
+- Ich gehe in das Museum.
+    - Ich gehe ins Museum.
+
+| eset | H. | N. | S. | Tsz. |
+| --- | --- | --- | --- | --- |
+| N | der | die | das | die |
+| A (tárgyas eset) | den | die | das | die |
+| D (részes eset) | dem | der | dem | den ...n |
+
+- Man hat ein Buch.
+
+## Szavak
+
+| német | magyar |
+| --- | --- |
+| wandern | túrázni |
+| das Wandern | túrázás |
+| reisen | utazni |
+| zum Beispiel / z.B. | például |
+| malen | festeni |
+| das Tier, -e | állat |
+| Klavier | zongora |
+| lesen | olvasni |
+| (das) Österreich | Ausztria |
+| die Türkei | Törökország |
+| die Niederlande (alapból többes szám, nincs egyes szám) | hollandia |
+| Portugal | portugália |
+| Spanien | spanyolország |
+| Frankreich | fr. o. |
+| Belgien | belgium |
+| England | anglia |
+| Großbritannien | nagy britannia |
+| Schottland | skócia |
+| Nordirland | észak írország |
+| Irland | írország |
+| Wales | wales |
+| Island | izland |
+| Norwegen | norvégia |
+| Schweden | svédo. |
+| Finnland | finno. |
+| Dänemark |  |
+| Deutschland | Németo. |
+| Luxemburg | luxemburg |
+| die Schweitz | svájc |
+| Liechtenstein |  |
+| Tschechien |  |
+| Polen |  |
+| die Slowakei | szlovákia |
+| Ungarn |  |
+| Slowenien |  |
+| Kroatien |  |
+| Bosnien und Herzegowina |  |
+| Serbien |  |
+| Kosovo |  |
+| Nordmacedonien |  |
+| Albanien |  |
+| Griechenland |  |
+| Bulgarien |  |
+| Italien |  |
+| r Vatikan / e Vatikan-Stadt |  |
+| Rumänien |  |
+| Moldau |  |
+| e Türkei |  |
+| e Ukraine |  |
+| Weissrussland / Belarus |  |
+| Estland |  |
+| Lettland |  |
+| Litauen |  |
+| Ägypten |  |
+| Zypern |  |
+| s Mittelmeer | földközi tenger |
+| s Meer / e See | tenger |
+| r See | tó |
+| r Ozean | óceán |
+| r Atlantik / r Atlantische Ocean | atlantik óceán |
+| e Nordsee | északi tenger |
+| e Ostsee | keleti tenger |
+| e USA (többes szám) |  |
+| e Bahamas |  |
+| Brazilien |  |
+| Australien |  |
+| Argentinien |  |
+| der Irak |  |
+| der Iran |  |
+| der Jemen |  |
+| der Tschad |  |
+| der Kongo |  |
+| Algerien |  |
+| die Mongolei |  |
+| Prag |  |
+| Wien |  |
+| Florenz |  |
+| Venedig |  |
+| Mailand |  |
+| Dresden |  |
+| Bremen |  |
+
+---
+
+| német | magyar |
+| --- | --- |
+| sprechen | beszélni |
+
+| sprechen | ich | du | er/sie/es | wir | ihr | sie/Sie |
+| --- | --- | --- | --- | --- | --- | --- |
+| sprechen | spreche | spr**i**chst | spr**i**cht | sprechen | sprecht | sprechen |
