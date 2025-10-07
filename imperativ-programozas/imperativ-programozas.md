@@ -125,3 +125,32 @@ $$(-1)^s*m*2^e$$
 - végtelenek (at least it is useful)
 - NaN (this is useful too)
 - denormalizált számok (ez mit jelent?)
+
+## C-s crazyness
+
+### `,` operátor
+
+[`,` operátor *(? like what the hell?)*](https://en.wikipedia.org/wiki/Comma_operator)
+
+```c
+int i = 1, v;
+v = (i++, ++i); // nem ugyan az, mint v = i++, ++i
+```
+
+A `,` operátor két expressiont kér, és a másodikat adja vissza.
+
+### switch
+
+*what the siggma is this?*
+
+```c
+switch (light) {
+    case AMBER: if (can_stop()) {
+    case RED:       stop();
+                    break;
+                }
+    case GREEN: go();
+}
+```
+
+*what the dog doing?*
