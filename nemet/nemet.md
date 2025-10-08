@@ -559,3 +559,80 @@ több számnál nincs ilyen szabály
 | sprechen | ich | du | er/sie/es | wir | ihr | sie/Sie |
 | --- | --- | --- | --- | --- | --- | --- |
 | sprechen | spreche | spr**i**chst | spr**i**cht | sprechen | sprecht | sprechen |
+
+# 7. óra
+
+| eset | Vater | Mutter |
+| --- | --- | --- |
+| N | ein Vater | eine Mutter |
+| A | einen Vater | eine Mutter |
+
+**Habe után mindig akkusativ**
+    - nem van testvérem, hanem birtoklom a testvéremet
+
+## Kérdések
+
+- Wie heißt du?
+- Wie heißen Sie?
+- Woher kommen Sie?
+- Wo wohnen Sie?
+- Was sind Sie von Beruf?
+- Was bist du von Beruf?
+- Was ist sie von Beruf?
+- Was seid ihr von Beruf?
+- Welche Sprachen sprachen Sie?
+
+## <span title="Kérdések">*Fragen*</span>
+
+### Eldöntendő
+
+- ø kérdőszó
+- 1\. ige, 2\. alany
+
+### Kiegészítendő
+
+- W-fragen
+- kérdőszó
+- 1\. kérdőszó, 2\. ige, 3\. alany
+
+## Fragen 2
+
+man - általános alany
+
+- In Spanien spricht man Spanisch.
+- Spricht man in Spanien Spanisch?
+- Welche Sprache spricht man in Sp?
+- Wo spricht man Spanisch?
+
+## Ragozás
+
+| alany | sprechen |
+| --- | --- |
+| ich | spreche |
+| du | sprichst |
+| er/sie/es | spricht |
+| wir | sprechen |
+| ihr | sprecht |
+| sie/Sie | sprechen |
+
+## Fragen 3
+
+- Sprichst du Deutsch?
+    - Nein, ich spreche kein Deutsch.
+- Spricht man in der Schweiz Spanisch?
+    - Nein, man spricht in der Schweiz kein Spanisch.
+
+---
+
+## Szavak
+
+| német | magyar |
+| --- | --- |
+| r Lehrer,- | tanár |
+| e Lehrerin,-nen | tanárnő |
+| r Student,-en | egyetemi hallgató |
+| r Studentin,-nen | egyetemi hallgató |
+| r Schüler,- | diák |
+| r Schülerin,-nen | diák |
+| r Verkäufer,- | eladó |
+| r Verkäuferin,-nen | eladó |
