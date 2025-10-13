@@ -636,3 +636,51 @@ man - általános alany
 | r Schülerin,-nen | diák |
 | r Verkäufer,- | eladó |
 | r Verkäuferin,-nen | eladó |
+
+## hf
+
+### 13/a19
+
+- Nein, leider nicht. Ich spreche nur Englisch und ein bisschen Spanisch.
+- Ja, sie spricht gut Schwedisch.
+- Ja, er spricht gut Japanisch.
+- Nein, leider nicht.
+- Ja, Sie sprechen ein bisschen Polnisch.
+- Nein, ich spreche kein Russisch.
+- Nein, sie spricht kein Griechisch.
+- Ja, ich spreche Deutsch ein bisschen.
+- Nein, sie sprechen kein Deutsch.
+
+### 17/a31
+
+- ist
+- komme
+- spricht
+- zwei
+
+- kommen
+- sind
+- heißt
+- zwei
+
+- sprichst
+- Wohnst
+- Isst
+- ein
+
+### 17/a32
+
+- Er wohnt in Madrid.
+- Bist du verheiratet?
+- Ich spreche Spanisch.
+- Wo wohnst du?
+- Was sind Sie von Beruf?
+- Jean studiert in London Informatik.
+
+### 17/a33
+
+- Wie alt bist du?
+- Woher kommst du?
+- Wo wohnst du?
+- Was bist du von Beruf?
+- Sprichst du Spanisch?
