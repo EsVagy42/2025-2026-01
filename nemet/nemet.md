@@ -648,7 +648,7 @@ man - általános alany
 - Ja, Sie sprechen ein bisschen Polnisch.
 - Nein, ich spreche kein Russisch.
 - Nein, sie spricht kein Griechisch.
-- Ja, ich spreche Deutsch ein bisschen.
+- Ja, ich spreche ein bisschen Deutsch.
 - Nein, sie sprechen kein Deutsch.
 
 ### 17/a31
@@ -660,12 +660,12 @@ man - általános alany
 
 - kommen
 - sind
-- heißt
+- heißen
 - zwei
 
-- sprichst
+- sprechen
 - Wohnst
-- Isst
+- Studiert
 - ein
 
 ### 17/a32
@@ -684,3 +684,17 @@ man - általános alany
 - Wo wohnst du?
 - Was bist du von Beruf?
 - Sprichst du Spanisch?
+
+# 8. óra
+
+## szavak
+
+| német | magyar |
+| ---  | --- |
+| leider nicht | sajnos nem |
+| nur | csak |
+| Ich spreche kein Wort Franzözisch | Egy szót sem beszélek franciául |
+| ein wenig | egy kevés |
+| Ich studiere an der ELTE. | az eltén tanulok |
+| die Universität,-en | egyetem |
+| In der Tasche habe ich ... | A táskában van ... |
