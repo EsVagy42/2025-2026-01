@@ -108,3 +108,7 @@ $$\cos{4x} = \cos{\frac{\pi}{2} - 3x}$$
 # 11. gyak
 
 ![2025-10-14](2025-10-14.svg)
+
+## Zh gyakorlás
+
+![2025-10-14-zhgyak](2025-10-14-zhgyak.svg)
