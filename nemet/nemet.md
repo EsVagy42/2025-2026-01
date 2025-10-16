@@ -698,3 +698,83 @@ man - általános alany
 | Ich studiere an der ELTE. | az eltén tanulok |
 | die Universität,-en | egyetem |
 | In der Tasche habe ich ... | A táskában van ... |
+
+# 9. óra
+
+## szavak
+
+| német | magyar |
+| --- | --- |
+| in der Welt | a világon |
+| der Fußballspieler Nummer eins | első focista |
+| verstehe ein bisschen | érteni egy kicsit |
+| fast alles | szinte mindent |
+| richtig Österreich | igazi osztrák |
+| das Tier,-e | állat |
+| das Kuscheltier,-e | plüssállat |
+| süß | édes |
+| das Bild,-er | a kép |
+| richtig | igaz |
+| falsch | hamis |
+| auf dem Markt | a piacon |
+| der Markt,-e | piac |
+| die Schule,-n | iskola |
+| viele | sok |
+| lieben | él |
+| die Nationalität,-en | nemzetek |
+
+## feladat
+
+### 1.
+
+| német | magyar |
+| --- | --- |
+| r Österreicher,- | osztrák |
+| e Österreicherin,-nen | osztrák |
+| r Deutsche,-n | német |
+| ein Deutscher | egy német férfi |
+| e Deutsche,-n | német |
+| eine Deutsche | egy német nő |
+| r Portugiese,-n | portugál |
+| ein Portugieser | egy portugál |
+| e Portugiesin,-nen | portugál nő |
+| eine Portugiesin | egy portugál nő |
+| r Chineser | kínai |
+| e Chinesin | kínai |
+| r Ungar,-n | magyar |
+| e Ungarin,-nen | magyar |
+| die Zeit | idő |
+
+### 2.
+
+- Ich denke, er ist ein Vlogger.
+- Ich denke, er ist ein Student.
+- Ich denke, er ist ein Chef. (= főnök)
+- Ich denke, er ist ein Koch. (= szakács)
+- Ich denke, er ist ein Mechaniker.
+- Ich denke, er ist ein Schüler.
+- Ich denke, er ist ein Programmierer.
+- Ich denke, er ist ein Arzt. (= orvos)
+
+- Ich denke, sie ist eine Vloggerin.
+- Ich denke, sie ist eine Studentin.
+- Ich denke, sie ist eine Schuhdesignerin. (= cipődizájner)
+- Ich denke, sie ist eine Köchin.
+- Ich denke, sie ist eine Ärztin. (= orvos)
+- Ich denke, sie ist eine Chefin.
+- Ich denke, sie ist eine Kellnerin. (= pincér)
+
+### 3.
+
+- Was hast du in der Tasche?
+
+## Ragozás
+
+| személy | lesen |
+| --- | --- |
+| ich | lese |
+| du | liest |
+| er/sie/es | liest |
+| wir | lesen |
+| ihr | lest |
+| sie/Sie | lesen |
