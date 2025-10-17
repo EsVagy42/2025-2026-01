@@ -113,6 +113,7 @@ $$\cos{4x} = \cos{\frac{\pi}{2} - 3x}$$
 
 ![2025-10-14-zhgyak](2025-10-14-zhgyak.svg)
 ![2025-10-16-zhgyak](2025-10-16-zhgyak.svg)
+![2025-10-17-zh-gyak](2025-10-17-zh-gyak.svg)
 
 # 12. gyak
 
