@@ -126,3 +126,5 @@ $$\cos{4x} = \cos{\frac{\pi}{2} - 3x}$$
 # 13. gyak
 
 ![2025-10-21](2025-10-21.svg)
+
+$W^* := Span(x_1, ..., x_k) az x_1, ..., x_k generált altér.$
