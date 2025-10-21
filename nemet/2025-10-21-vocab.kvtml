@@ -1,0 +1,1763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>Parley 25.08.2</generator>
+    <title>Német gyakorlás</title>
+    <author>EsVagy</author>
+    <license>Public Domain</license>
+    <date>2025-10-21</date>
+    <category>Languages</category>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>Deutsch (Deutschland)</name>
+      <locale>de_DE</locale>
+      <article>
+        <singular>
+          <definite>
+            <male>der</male>
+            <female>die</female>
+            <neutral>das</neutral>
+          </definite>
+          <indefinite>
+            <male>ein</male>
+            <female>eine</female>
+            <neutral>ein</neutral>
+          </indefinite>
+        </singular>
+        <plural>
+          <definite>
+            <male>die</male>
+            <female>die</female>
+            <neutral>die</neutral>
+          </definite>
+        </plural>
+      </article>
+      <personalpronouns>
+        <singular>
+          <firstperson>ich</firstperson>
+          <secondperson>du</secondperson>
+          <thirdpersonneutralcommon>er/sie/es</thirdpersonneutralcommon>
+        </singular>
+        <plural>
+          <firstperson>wir</firstperson>
+          <secondperson>ihr</secondperson>
+          <thirdpersonneutralcommon>sie</thirdpersonneutralcommon>
+        </plural>
+      </personalpronouns>
+      <tense>Präteritum</tense>
+      <tense>Perfekt</tense>
+      <tense>Plusquamperfekt</tense>
+      <tense>Präsens</tense>
+      <tense>Futur I</tense>
+      <tense>Futur II</tense>
+    </identifier>
+    <identifier id="1">
+      <name>magyar (Magyarország)</name>
+      <locale>hu_HU</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>kommen</text>
+        <conjugation>
+          <tense>Präteritum</tense>
+          <singular>
+            <firstperson>
+              <text>komme</text>
+            </firstperson>
+            <secondperson>
+              <text>kommst</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>kommt</text>
+            </thirdpersonneutralcommon>
+          </singular>
+          <plural>
+            <firstperson>
+              <text>kommen</text>
+            </firstperson>
+            <secondperson>
+              <text>kommt</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>kommen</text>
+            </thirdpersonneutralcommon>
+          </plural>
+        </conjugation>
+      </translation>
+      <translation id="1">
+        <text>jönni</text>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>liegen</text>
+        <conjugation>
+          <tense>Präteritum</tense>
+        </conjugation>
+      </translation>
+      <translation id="1">
+        <text>feküdni</text>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>trinken</text>
+        <conjugation>
+          <tense>Präteritum</tense>
+          <singular>
+            <firstperson>
+              <text>trinke</text>
+            </firstperson>
+            <secondperson>
+              <text>trinkst</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>trinkt</text>
+            </thirdpersonneutralcommon>
+          </singular>
+          <plural>
+            <firstperson>
+              <text>trinken</text>
+            </firstperson>
+            <secondperson>
+              <text>trinkt</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>trinken</text>
+            </thirdpersonneutralcommon>
+          </plural>
+        </conjugation>
+      </translation>
+      <translation id="1">
+        <text>inni</text>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>viel</text>
+      </translation>
+      <translation id="1">
+        <text>sok</text>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>Kaffe</text>
+      </translation>
+      <translation id="1">
+        <text>kávé</text>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>Café</text>
+      </translation>
+      <translation id="1">
+        <text>kávézó</text>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>sein</text>
+        <conjugation>
+          <tense>Präteritum</tense>
+          <singular>
+            <firstperson>
+              <text>bin</text>
+            </firstperson>
+            <secondperson>
+              <text>bist</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>ist</text>
+            </thirdpersonneutralcommon>
+          </singular>
+          <plural>
+            <firstperson>
+              <text>sind</text>
+            </firstperson>
+            <secondperson>
+              <text>seid</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>sind</text>
+            </thirdpersonneutralcommon>
+          </plural>
+        </conjugation>
+      </translation>
+      <translation id="1">
+        <text>létige</text>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>wohnen</text>
+      </translation>
+      <translation id="1">
+        <text>lakni</text>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>bleiben</text>
+      </translation>
+      <translation id="1">
+        <text>maradni</text>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>Ländern</text>
+      </translation>
+      <translation id="1">
+        <text>ország</text>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>gefallen</text>
+      </translation>
+      <translation id="1">
+        <text>tetszeni</text>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>heißen</text>
+        <conjugation>
+          <tense>Präteritum</tense>
+          <singular>
+            <firstperson>
+              <text>heißen</text>
+            </firstperson>
+            <secondperson>
+              <text>heißt</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>heißt</text>
+            </thirdpersonneutralcommon>
+          </singular>
+          <plural>
+            <firstperson>
+              <text>heißen</text>
+            </firstperson>
+            <secondperson>
+              <text>heißt</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>heißen</text>
+            </thirdpersonneutralcommon>
+          </plural>
+        </conjugation>
+      </translation>
+      <translation id="1">
+        <text>nevezni</text>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>wohne</text>
+        <conjugation>
+          <tense>Präteritum</tense>
+          <singular>
+            <firstperson>
+              <text>wohne</text>
+            </firstperson>
+            <secondperson>
+              <text>wohnst</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>wohnt</text>
+            </thirdpersonneutralcommon>
+          </singular>
+          <plural>
+            <firstperson>
+              <text>wohnen</text>
+            </firstperson>
+            <secondperson>
+              <text>wohnt</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>wohnen</text>
+            </thirdpersonneutralcommon>
+          </plural>
+        </conjugation>
+      </translation>
+      <translation id="1">
+        <text>élni</text>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>tanzen</text>
+        <conjugation>
+          <tense>Präteritum</tense>
+          <singular>
+            <firstperson>
+              <text>tanze</text>
+            </firstperson>
+            <secondperson>
+              <text>tanzt</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>tanzt</text>
+            </thirdpersonneutralcommon>
+          </singular>
+          <plural>
+            <firstperson>
+              <text>tanzen</text>
+            </firstperson>
+            <secondperson>
+              <text>tanzt</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>tanzen</text>
+            </thirdpersonneutralcommon>
+          </plural>
+        </conjugation>
+      </translation>
+      <translation id="1">
+        <text>táncolni</text>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>Wie heißt du?</text>
+      </translation>
+      <translation id="1">
+        <text>Ki vagy?</text>
+      </translation>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>Woher kommst du?</text>
+      </translation>
+      <translation id="1">
+        <text>Honnan jössz?</text>
+      </translation>
+    </entry>
+    <entry id="16">
+      <translation id="0">
+        <text>Wo wohnst du?</text>
+      </translation>
+      <translation id="1">
+        <text>Hol laksz?</text>
+      </translation>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>Was trinkst du?</text>
+      </translation>
+      <translation id="1">
+        <text>Mit iszol?</text>
+      </translation>
+    </entry>
+    <entry id="18">
+      <translation id="0">
+        <text>Was machst du?</text>
+      </translation>
+      <translation id="1">
+        <text>Mit csinálsz?</text>
+      </translation>
+    </entry>
+    <entry id="19">
+      <translation id="0">
+        <text>Wie alt bist du?</text>
+      </translation>
+      <translation id="1">
+        <text>Hány éves vagy?</text>
+      </translation>
+    </entry>
+    <entry id="20">
+      <translation id="0">
+        <text>Wie geht es dir?</text>
+      </translation>
+      <translation id="1">
+        <text>Hogy vagy?</text>
+      </translation>
+    </entry>
+    <entry id="21">
+      <translation id="0">
+        <text>auch</text>
+      </translation>
+      <translation id="1">
+        <text>szintén</text>
+      </translation>
+    </entry>
+    <entry id="22">
+      <translation id="0">
+        <text>Opa</text>
+      </translation>
+      <translation id="1">
+        <text>nagyapa</text>
+      </translation>
+    </entry>
+    <entry id="23">
+      <translation id="0">
+        <text>Großvater</text>
+        <declension>
+          <male>
+            <plural>
+              <nominative>
+                <text>Großväter</text>
+              </nominative>
+            </plural>
+          </male>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>nagyapa</text>
+      </translation>
+    </entry>
+    <entry id="24">
+      <translation id="0">
+        <text>Oma</text>
+      </translation>
+      <translation id="1">
+        <text>nagymama</text>
+      </translation>
+    </entry>
+    <entry id="25">
+      <translation id="0">
+        <text>Großmutter</text>
+      </translation>
+      <translation id="1">
+        <text>nagymama</text>
+      </translation>
+    </entry>
+    <entry id="26">
+      <translation id="0">
+        <text>Eltern</text>
+      </translation>
+      <translation id="1">
+        <text>szülők</text>
+      </translation>
+    </entry>
+    <entry id="27">
+      <translation id="0">
+        <text>Vater</text>
+      </translation>
+      <translation id="1">
+        <text>apa</text>
+      </translation>
+    </entry>
+    <entry id="28">
+      <translation id="0">
+        <text>Mutter</text>
+      </translation>
+      <translation id="1">
+        <text>anya</text>
+      </translation>
+    </entry>
+    <entry id="29">
+      <translation id="0">
+        <text>Ehemann</text>
+      </translation>
+      <translation id="1">
+        <text>férj</text>
+      </translation>
+    </entry>
+    <entry id="30">
+      <translation id="0">
+        <text>Ehefrau</text>
+      </translation>
+      <translation id="1">
+        <text>feleség</text>
+      </translation>
+    </entry>
+    <entry id="31">
+      <translation id="0">
+        <text>Ehepaar</text>
+      </translation>
+      <translation id="1">
+        <text>házaspár</text>
+      </translation>
+    </entry>
+    <entry id="32">
+      <translation id="0">
+        <text>Bruder</text>
+        <declension>
+          <male>
+            <plural>
+              <nominative>
+                <text>Brüder</text>
+              </nominative>
+            </plural>
+          </male>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>testvér</text>
+      </translation>
+    </entry>
+    <entry id="33">
+      <translation id="0">
+        <text>Schwester</text>
+        <declension>
+          <female>
+            <plural>
+              <nominative>
+                <text>Schwestern</text>
+              </nominative>
+            </plural>
+          </female>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>lánytestvér</text>
+      </translation>
+    </entry>
+    <entry id="34">
+      <translation id="0">
+        <text>Sohn</text>
+      </translation>
+      <translation id="1">
+        <text>fia</text>
+      </translation>
+    </entry>
+    <entry id="35">
+      <translation id="0">
+        <text>Tochter</text>
+      </translation>
+      <translation id="1">
+        <text>lánya</text>
+      </translation>
+    </entry>
+    <entry id="36">
+      <translation id="0">
+        <text>Kind</text>
+        <declension>
+          <male>
+            <plural>
+              <nominative>
+                <text>Kinder</text>
+              </nominative>
+            </plural>
+          </male>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>gyerekek</text>
+      </translation>
+    </entry>
+    <entry id="37">
+      <translation id="0">
+        <text>Enkel</text>
+      </translation>
+      <translation id="1">
+        <text>unoka</text>
+      </translation>
+    </entry>
+    <entry id="38">
+      <translation id="0">
+        <text>Enkelin</text>
+      </translation>
+      <translation id="1">
+        <text>lány unoka</text>
+      </translation>
+    </entry>
+    <entry id="39">
+      <translation id="0">
+        <text>Geschwister</text>
+      </translation>
+      <translation id="1">
+        <text>testvérek</text>
+      </translation>
+    </entry>
+    <entry id="40">
+      <translation id="0">
+        <text>Enkelkinder</text>
+      </translation>
+      <translation id="1">
+        <text>unokák</text>
+      </translation>
+    </entry>
+    <entry id="41">
+      <translation id="0">
+        <text>Cousine</text>
+      </translation>
+      <translation id="1">
+        <text>unokatestvér lány</text>
+      </translation>
+    </entry>
+    <entry id="42">
+      <translation id="0">
+        <text>Cousin</text>
+      </translation>
+      <translation id="1">
+        <text>unokatestvér</text>
+      </translation>
+    </entry>
+    <entry id="43">
+      <translation id="0">
+        <text>nennen</text>
+      </translation>
+      <translation id="1">
+        <text>nevezni</text>
+      </translation>
+    </entry>
+    <entry id="44">
+      <translation id="0">
+        <text>verheiratet</text>
+      </translation>
+      <translation id="1">
+        <text>házasok</text>
+      </translation>
+    </entry>
+    <entry id="45">
+      <translation id="0">
+        <text>Polizist</text>
+      </translation>
+      <translation id="1">
+        <text>rendőr</text>
+      </translation>
+    </entry>
+    <entry id="46">
+      <translation id="0">
+        <text>Polizistin</text>
+      </translation>
+      <translation id="1">
+        <text>rendőrnő</text>
+      </translation>
+    </entry>
+    <entry id="47">
+      <translation id="0">
+        <text>Stunde</text>
+      </translation>
+      <translation id="1">
+        <text>óra</text>
+      </translation>
+    </entry>
+    <entry id="48">
+      <translation id="0">
+        <text>Sprache</text>
+        <declension>
+          <female>
+            <plural>
+              <nominative>
+                <text>Sprachen</text>
+              </nominative>
+            </plural>
+          </female>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>nyelv</text>
+      </translation>
+    </entry>
+    <entry id="49">
+      <translation id="0">
+        <text>Fremdsprachen</text>
+        <declension>
+          <female>
+            <plural>
+              <nominative>
+                <text>Fremdsprachenn</text>
+              </nominative>
+            </plural>
+          </female>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>idegennyelv</text>
+      </translation>
+    </entry>
+    <entry id="50">
+      <translation id="0">
+        <text>wandern</text>
+      </translation>
+      <translation id="1">
+        <text>túrázni</text>
+      </translation>
+    </entry>
+    <entry id="51">
+      <translation id="0">
+        <text>Wandern</text>
+      </translation>
+      <translation id="1">
+        <text>túrázás</text>
+      </translation>
+    </entry>
+    <entry id="52">
+      <translation id="0">
+        <text>reisen</text>
+      </translation>
+      <translation id="1">
+        <text>utazni</text>
+      </translation>
+    </entry>
+    <entry id="53">
+      <translation id="0">
+        <text>zum Beispiel</text>
+      </translation>
+      <translation id="1">
+        <text>például</text>
+      </translation>
+    </entry>
+    <entry id="54">
+      <translation id="0">
+        <text>malen</text>
+      </translation>
+      <translation id="1">
+        <text>festeni</text>
+      </translation>
+    </entry>
+    <entry id="55">
+      <translation id="0">
+        <text>Tier</text>
+        <declension>
+          <neutral>
+            <plural>
+              <nominative>
+                <text>Tiere</text>
+              </nominative>
+            </plural>
+          </neutral>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>állat</text>
+      </translation>
+    </entry>
+    <entry id="56">
+      <translation id="0">
+        <text>Klavier</text>
+      </translation>
+      <translation id="1">
+        <text>zongora</text>
+      </translation>
+    </entry>
+    <entry id="57">
+      <translation id="0">
+        <text>lesen</text>
+        <conjugation>
+          <tense>Präteritum</tense>
+        </conjugation>
+      </translation>
+      <translation id="1">
+        <text>olvasni</text>
+      </translation>
+    </entry>
+    <entry id="58">
+      <translation id="0">
+        <text>sprechen</text>
+        <conjugation>
+          <tense>Präteritum</tense>
+          <singular>
+            <firstperson>
+              <text>spreche</text>
+            </firstperson>
+            <secondperson>
+              <text>sprichst</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>spricht</text>
+            </thirdpersonneutralcommon>
+          </singular>
+          <plural>
+            <firstperson>
+              <text>sprechen</text>
+            </firstperson>
+            <secondperson>
+              <text>sprecht</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>sprechen</text>
+            </thirdpersonneutralcommon>
+          </plural>
+        </conjugation>
+      </translation>
+      <translation id="1">
+        <text>beszélni</text>
+      </translation>
+    </entry>
+    <entry id="59">
+      <translation id="0">
+        <text>Was bist du von Beruf?</text>
+      </translation>
+      <translation id="1">
+        <text>Mit dolgozol?</text>
+      </translation>
+    </entry>
+    <entry id="60">
+      <translation id="0">
+        <text>Welche Sprachen sprichst du?</text>
+      </translation>
+      <translation id="1">
+        <text>Melyik nyelveket beszéled?</text>
+      </translation>
+    </entry>
+    <entry id="61">
+      <translation id="0">
+        <text>Lehrer</text>
+        <declension>
+          <male>
+            <plural>
+              <nominative>
+                <text>Lehrer</text>
+              </nominative>
+            </plural>
+          </male>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>tanár</text>
+      </translation>
+    </entry>
+    <entry id="62">
+      <translation id="0">
+        <text>Lehrerin</text>
+        <declension>
+          <female>
+            <plural>
+              <nominative>
+                <text>Lehrerinnen</text>
+              </nominative>
+            </plural>
+          </female>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>tanárnő</text>
+      </translation>
+    </entry>
+    <entry id="63">
+      <translation id="0">
+        <text>Student</text>
+        <declension>
+          <male>
+            <plural>
+              <nominative>
+                <text>Studenten</text>
+              </nominative>
+            </plural>
+          </male>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>egyetemi hallgató</text>
+      </translation>
+    </entry>
+    <entry id="64">
+      <translation id="0">
+        <text>Studentin</text>
+        <declension>
+          <female>
+            <plural>
+              <nominative>
+                <text>Studentinnen</text>
+              </nominative>
+            </plural>
+          </female>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>egyetemi hallgató nő</text>
+      </translation>
+    </entry>
+    <entry id="65">
+      <translation id="0">
+        <text>Schüler</text>
+        <declension>
+          <male>
+            <plural>
+              <nominative>
+                <text>Schüler</text>
+              </nominative>
+            </plural>
+          </male>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>diák</text>
+      </translation>
+    </entry>
+    <entry id="66">
+      <translation id="0">
+        <text>Schülerin</text>
+        <declension>
+          <female>
+            <plural>
+              <nominative>
+                <text>Schülerinnen</text>
+              </nominative>
+            </plural>
+          </female>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>diák nő</text>
+      </translation>
+    </entry>
+    <entry id="67">
+      <translation id="0">
+        <text>Verkäufer</text>
+        <declension>
+          <male>
+            <plural>
+              <nominative>
+                <text>Verkäufer</text>
+              </nominative>
+            </plural>
+          </male>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>eladó</text>
+      </translation>
+    </entry>
+    <entry id="68">
+      <translation id="0">
+        <text>Verkauferin</text>
+        <declension>
+          <female>
+            <plural>
+              <nominative>
+                <text>Verkauferinnen</text>
+              </nominative>
+            </plural>
+          </female>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>eladó nő</text>
+      </translation>
+    </entry>
+    <entry id="69">
+      <translation id="0">
+        <text>leider nicht</text>
+      </translation>
+      <translation id="1">
+        <text>sajnos nem</text>
+      </translation>
+    </entry>
+    <entry id="70">
+      <translation id="0">
+        <text>nur</text>
+      </translation>
+      <translation id="1">
+        <text>csak</text>
+      </translation>
+    </entry>
+    <entry id="71">
+      <translation id="0">
+        <text>Ich spreche kein Wort Franzözisch.</text>
+      </translation>
+      <translation id="1">
+        <text>Egy szót sem beszélek franciául.</text>
+      </translation>
+    </entry>
+    <entry id="72">
+      <translation id="0">
+        <text>ein wenig</text>
+      </translation>
+      <translation id="1">
+        <text>egy kevés</text>
+      </translation>
+    </entry>
+    <entry id="73">
+      <translation id="0">
+        <text>die Universität</text>
+        <declension>
+          <female>
+            <plural>
+              <nominative>
+                <text>Universitäten</text>
+              </nominative>
+            </plural>
+          </female>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>egyetem</text>
+      </translation>
+    </entry>
+    <entry id="74">
+      <translation id="0">
+        <text>in der Welt</text>
+      </translation>
+      <translation id="1">
+        <text>a világon</text>
+      </translation>
+    </entry>
+    <entry id="75">
+      <translation id="0">
+        <text>verstehe</text>
+      </translation>
+      <translation id="1">
+        <text>érteni</text>
+      </translation>
+    </entry>
+    <entry id="76">
+      <translation id="0">
+        <text>fast alles</text>
+      </translation>
+      <translation id="1">
+        <text>szinte mindent</text>
+      </translation>
+    </entry>
+    <entry id="77">
+      <translation id="0">
+        <text>richtig</text>
+      </translation>
+      <translation id="1">
+        <text>igaz</text>
+      </translation>
+    </entry>
+    <entry id="78">
+      <translation id="0">
+        <text>falsch</text>
+      </translation>
+      <translation id="1">
+        <text>hamis</text>
+      </translation>
+    </entry>
+    <entry id="79">
+      <translation id="0">
+        <text>Kuscheltier</text>
+        <declension>
+          <neutral>
+            <plural>
+              <nominative>
+                <text>Kuscheltiere</text>
+              </nominative>
+            </plural>
+          </neutral>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>plüssállat</text>
+      </translation>
+    </entry>
+    <entry id="80">
+      <translation id="0">
+        <text>süß</text>
+      </translation>
+      <translation id="1">
+        <text>édes</text>
+      </translation>
+    </entry>
+    <entry id="81">
+      <translation id="0">
+        <text>Bild</text>
+        <declension>
+          <neutral>
+            <plural>
+              <nominative>
+                <text>Bilder</text>
+              </nominative>
+            </plural>
+          </neutral>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>kép</text>
+      </translation>
+    </entry>
+    <entry id="82">
+      <translation id="0">
+        <text>Markt</text>
+        <declension>
+          <male>
+            <plural>
+              <nominative>
+                <text>Markte</text>
+              </nominative>
+            </plural>
+          </male>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>piac</text>
+      </translation>
+    </entry>
+    <entry id="83">
+      <translation id="0">
+        <text>Schule</text>
+      </translation>
+      <translation id="1">
+        <text>iskola</text>
+        <declension>
+          <female>
+            <plural>
+              <nominative>
+                <text>Schulen</text>
+              </nominative>
+            </plural>
+          </female>
+        </declension>
+      </translation>
+    </entry>
+    <entry id="84">
+      <translation id="0">
+        <text>viele</text>
+      </translation>
+      <translation id="1">
+        <text>sok</text>
+      </translation>
+    </entry>
+    <entry id="85">
+      <translation id="0">
+        <text>lieben</text>
+      </translation>
+      <translation id="1">
+        <text>él</text>
+      </translation>
+    </entry>
+    <entry id="86">
+      <translation id="0">
+        <text>Nationalität</text>
+        <declension>
+          <female>
+            <plural>
+              <nominative>
+                <text>Nationalitäten</text>
+              </nominative>
+            </plural>
+          </female>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>nemzetek</text>
+      </translation>
+    </entry>
+    <entry id="87">
+      <translation id="0">
+        <text>Österreicher</text>
+        <declension>
+          <male>
+            <plural>
+              <nominative>
+                <text>Österreicher</text>
+              </nominative>
+            </plural>
+          </male>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>osztrák</text>
+      </translation>
+    </entry>
+    <entry id="88">
+      <translation id="0">
+        <text>Österreicherin</text>
+        <declension>
+          <female>
+            <plural>
+              <nominative>
+                <text>Österreicherinnen</text>
+              </nominative>
+            </plural>
+          </female>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>osztrák nő</text>
+      </translation>
+    </entry>
+    <entry id="89">
+      <translation id="0">
+        <text>Deutsche</text>
+        <declension>
+          <male>
+            <plural>
+              <nominative>
+                <text>Deutschen</text>
+              </nominative>
+            </plural>
+          </male>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>német</text>
+      </translation>
+    </entry>
+    <entry id="90">
+      <translation id="0">
+        <text>ein Deutscher</text>
+      </translation>
+      <translation id="1">
+        <text>egy német férfi</text>
+      </translation>
+    </entry>
+    <entry id="91">
+      <translation id="0">
+        <text>Deutsche</text>
+        <declension>
+          <female>
+            <plural>
+              <nominative>
+                <text>Deutschen</text>
+              </nominative>
+            </plural>
+          </female>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>német nő</text>
+      </translation>
+    </entry>
+    <entry id="92">
+      <translation id="0">
+        <text>eine Deutsche</text>
+      </translation>
+      <translation id="1">
+        <text>egy német nő</text>
+      </translation>
+    </entry>
+    <entry id="93">
+      <translation id="0">
+        <text>Portugiese</text>
+        <declension>
+          <male>
+            <plural>
+              <nominative>
+                <text>Portugiesen</text>
+              </nominative>
+            </plural>
+          </male>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>portugál</text>
+      </translation>
+    </entry>
+    <entry id="94">
+      <translation id="0">
+        <text>Portugiesin</text>
+        <declension>
+          <female>
+            <plural>
+              <nominative>
+                <text>Portugiesinnen</text>
+              </nominative>
+            </plural>
+          </female>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>portugál nő</text>
+      </translation>
+    </entry>
+    <entry id="95">
+      <translation id="0">
+        <text>ein Portugieser</text>
+      </translation>
+      <translation id="1">
+        <text>egy portugál</text>
+      </translation>
+    </entry>
+    <entry id="96">
+      <translation id="0">
+        <text>eine Portugiesin</text>
+      </translation>
+      <translation id="1">
+        <text>egy portugál nő</text>
+      </translation>
+    </entry>
+    <entry id="97">
+      <translation id="0">
+        <text>Chineser</text>
+      </translation>
+      <translation id="1">
+        <text>kínai</text>
+      </translation>
+    </entry>
+    <entry id="98">
+      <translation id="0">
+        <text>Chinesin</text>
+      </translation>
+      <translation id="1">
+        <text>kínai nő</text>
+      </translation>
+    </entry>
+    <entry id="99">
+      <translation id="0">
+        <text>Ungar</text>
+        <declension>
+          <male>
+            <plural>
+              <nominative>
+                <text>Ungarn</text>
+              </nominative>
+            </plural>
+          </male>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>magyar</text>
+      </translation>
+    </entry>
+    <entry id="100">
+      <translation id="0">
+        <text>Ungarin</text>
+        <declension>
+          <female>
+            <plural>
+              <nominative>
+                <text>Ungarinnen</text>
+              </nominative>
+            </plural>
+          </female>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>magyar nő</text>
+      </translation>
+    </entry>
+    <entry id="101">
+      <translation id="0">
+        <text>Zeit</text>
+      </translation>
+      <translation id="1">
+        <text>idő</text>
+      </translation>
+    </entry>
+    <entry id="102">
+      <translation id="0">
+        <text>Chef</text>
+      </translation>
+      <translation id="1">
+        <text>főnök</text>
+      </translation>
+    </entry>
+    <entry id="103">
+      <translation id="0">
+        <text>Koch</text>
+      </translation>
+      <translation id="1">
+        <text>szakács</text>
+      </translation>
+    </entry>
+    <entry id="104">
+      <translation id="0">
+        <text>Mechaniker</text>
+      </translation>
+      <translation id="1">
+        <text>mechanikus</text>
+      </translation>
+    </entry>
+    <entry id="105">
+      <translation id="0">
+        <text>Programmierer</text>
+      </translation>
+      <translation id="1">
+        <text>programozó</text>
+      </translation>
+    </entry>
+    <entry id="106">
+      <translation id="0">
+        <text>Arzt</text>
+      </translation>
+      <translation id="1">
+        <text>orvos</text>
+      </translation>
+    </entry>
+    <entry id="107">
+      <translation id="0">
+        <text>lesen</text>
+        <conjugation>
+          <tense>Präteritum</tense>
+          <singular>
+            <firstperson>
+              <text>lese</text>
+            </firstperson>
+            <secondperson>
+              <text>liest</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>liest</text>
+            </thirdpersonneutralcommon>
+          </singular>
+          <plural>
+            <firstperson>
+              <text>lesen</text>
+            </firstperson>
+            <secondperson>
+              <text>lest</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>lesen</text>
+            </thirdpersonneutralcommon>
+          </plural>
+        </conjugation>
+      </translation>
+      <translation id="1">
+        <text>olvas</text>
+      </translation>
+    </entry>
+    <entry id="108">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+  </entries>
+  <lessons>
+    <container>
+      <name>Lesson 1</name>
+      <inpractice>true</inpractice>
+      <entry id="0"/>
+      <entry id="1"/>
+      <entry id="2"/>
+      <entry id="3"/>
+      <entry id="4"/>
+      <entry id="5"/>
+      <entry id="6"/>
+      <entry id="7"/>
+      <entry id="8"/>
+      <entry id="9"/>
+      <entry id="10"/>
+      <entry id="11"/>
+      <entry id="12"/>
+      <entry id="13"/>
+      <entry id="14"/>
+      <entry id="15"/>
+      <entry id="16"/>
+      <entry id="17"/>
+      <entry id="18"/>
+      <entry id="19"/>
+      <entry id="20"/>
+      <entry id="21"/>
+      <entry id="22"/>
+      <entry id="23"/>
+      <entry id="24"/>
+      <entry id="25"/>
+      <entry id="26"/>
+      <entry id="27"/>
+      <entry id="28"/>
+      <entry id="29"/>
+      <entry id="30"/>
+      <entry id="31"/>
+      <entry id="32"/>
+      <entry id="33"/>
+      <entry id="34"/>
+      <entry id="35"/>
+      <entry id="36"/>
+      <entry id="37"/>
+      <entry id="38"/>
+      <entry id="39"/>
+      <entry id="40"/>
+      <entry id="41"/>
+      <entry id="42"/>
+      <entry id="43"/>
+      <entry id="44"/>
+      <entry id="45"/>
+      <entry id="46"/>
+      <entry id="47"/>
+      <entry id="48"/>
+      <entry id="49"/>
+      <entry id="50"/>
+      <entry id="51"/>
+      <entry id="52"/>
+      <entry id="53"/>
+      <entry id="54"/>
+      <entry id="55"/>
+      <entry id="56"/>
+      <entry id="57"/>
+      <entry id="58"/>
+      <entry id="59"/>
+      <entry id="60"/>
+      <entry id="61"/>
+      <entry id="62"/>
+      <entry id="63"/>
+      <entry id="64"/>
+      <entry id="65"/>
+      <entry id="66"/>
+      <entry id="67"/>
+      <entry id="68"/>
+      <entry id="69"/>
+      <entry id="70"/>
+      <entry id="71"/>
+      <entry id="72"/>
+      <entry id="73"/>
+      <entry id="74"/>
+      <entry id="75"/>
+      <entry id="76"/>
+      <entry id="77"/>
+      <entry id="78"/>
+      <entry id="79"/>
+      <entry id="80"/>
+      <entry id="81"/>
+      <entry id="82"/>
+      <entry id="83"/>
+      <entry id="84"/>
+      <entry id="85"/>
+      <entry id="86"/>
+      <entry id="87"/>
+      <entry id="88"/>
+      <entry id="89"/>
+      <entry id="90"/>
+      <entry id="91"/>
+      <entry id="92"/>
+      <entry id="93"/>
+      <entry id="94"/>
+      <entry id="95"/>
+      <entry id="96"/>
+      <entry id="97"/>
+      <entry id="98"/>
+      <entry id="99"/>
+      <entry id="100"/>
+      <entry id="101"/>
+      <entry id="102"/>
+      <entry id="103"/>
+      <entry id="104"/>
+      <entry id="105"/>
+      <entry id="106"/>
+      <entry id="107"/>
+      <entry id="108"/>
+    </container>
+  </lessons>
+  <wordtypes>
+    <container>
+      <name>Noun</name>
+      <specialwordtype>noun</specialwordtype>
+      <container>
+        <name>Masculine</name>
+        <specialwordtype>noun/male</specialwordtype>
+        <entry id="4">
+          <translation id="0"/>
+        </entry>
+        <entry id="22">
+          <translation id="0"/>
+        </entry>
+        <entry id="23">
+          <translation id="0"/>
+        </entry>
+        <entry id="27">
+          <translation id="0"/>
+        </entry>
+        <entry id="29">
+          <translation id="0"/>
+        </entry>
+        <entry id="32">
+          <translation id="0"/>
+        </entry>
+        <entry id="34">
+          <translation id="0"/>
+        </entry>
+        <entry id="36">
+          <translation id="0"/>
+        </entry>
+        <entry id="37">
+          <translation id="0"/>
+        </entry>
+        <entry id="45">
+          <translation id="0"/>
+        </entry>
+        <entry id="61">
+          <translation id="0"/>
+        </entry>
+        <entry id="63">
+          <translation id="0"/>
+        </entry>
+        <entry id="65">
+          <translation id="0"/>
+        </entry>
+        <entry id="67">
+          <translation id="0"/>
+        </entry>
+        <entry id="82">
+          <translation id="0"/>
+        </entry>
+        <entry id="87">
+          <translation id="0"/>
+        </entry>
+        <entry id="89">
+          <translation id="0"/>
+        </entry>
+        <entry id="93">
+          <translation id="0"/>
+        </entry>
+        <entry id="97">
+          <translation id="0"/>
+        </entry>
+        <entry id="99">
+          <translation id="0"/>
+        </entry>
+      </container>
+      <container>
+        <name>Feminine</name>
+        <specialwordtype>noun/female</specialwordtype>
+        <entry id="24">
+          <translation id="0"/>
+        </entry>
+        <entry id="25">
+          <translation id="0"/>
+        </entry>
+        <entry id="26">
+          <translation id="0"/>
+        </entry>
+        <entry id="28">
+          <translation id="0"/>
+        </entry>
+        <entry id="30">
+          <translation id="0"/>
+        </entry>
+        <entry id="33">
+          <translation id="0"/>
+        </entry>
+        <entry id="35">
+          <translation id="0"/>
+        </entry>
+        <entry id="38">
+          <translation id="0"/>
+        </entry>
+        <entry id="41">
+          <translation id="0"/>
+        </entry>
+        <entry id="46">
+          <translation id="0"/>
+        </entry>
+        <entry id="48">
+          <translation id="0"/>
+        </entry>
+        <entry id="49">
+          <translation id="0"/>
+        </entry>
+        <entry id="62">
+          <translation id="0"/>
+        </entry>
+        <entry id="64">
+          <translation id="0"/>
+        </entry>
+        <entry id="66">
+          <translation id="0"/>
+        </entry>
+        <entry id="68">
+          <translation id="0"/>
+        </entry>
+        <entry id="73">
+          <translation id="0"/>
+        </entry>
+        <entry id="83">
+          <translation id="1"/>
+        </entry>
+        <entry id="86">
+          <translation id="0"/>
+        </entry>
+        <entry id="88">
+          <translation id="0"/>
+        </entry>
+        <entry id="91">
+          <translation id="0"/>
+        </entry>
+        <entry id="94">
+          <translation id="0"/>
+        </entry>
+        <entry id="98">
+          <translation id="0"/>
+        </entry>
+        <entry id="100">
+          <translation id="0"/>
+        </entry>
+        <entry id="101">
+          <translation id="0"/>
+        </entry>
+      </container>
+      <container>
+        <name>Neuter</name>
+        <specialwordtype>noun/neutral</specialwordtype>
+        <entry id="5">
+          <translation id="0"/>
+        </entry>
+        <entry id="9">
+          <translation id="0"/>
+        </entry>
+        <entry id="31">
+          <translation id="0"/>
+        </entry>
+        <entry id="51">
+          <translation id="0"/>
+        </entry>
+        <entry id="55">
+          <translation id="0"/>
+        </entry>
+        <entry id="79">
+          <translation id="0"/>
+        </entry>
+        <entry id="81">
+          <translation id="0"/>
+        </entry>
+      </container>
+    </container>
+    <container>
+      <name>Verb</name>
+      <specialwordtype>verb</specialwordtype>
+      <entry id="0">
+        <translation id="0"/>
+      </entry>
+      <entry id="1">
+        <translation id="0"/>
+      </entry>
+      <entry id="2">
+        <translation id="0"/>
+      </entry>
+      <entry id="6">
+        <translation id="0"/>
+      </entry>
+      <entry id="7">
+        <translation id="0"/>
+      </entry>
+      <entry id="8">
+        <translation id="0"/>
+      </entry>
+      <entry id="10">
+        <translation id="0"/>
+      </entry>
+      <entry id="11">
+        <translation id="0"/>
+      </entry>
+      <entry id="12">
+        <translation id="0"/>
+      </entry>
+      <entry id="13">
+        <translation id="0"/>
+      </entry>
+      <entry id="43">
+        <translation id="0"/>
+      </entry>
+      <entry id="50">
+        <translation id="0"/>
+      </entry>
+      <entry id="52">
+        <translation id="0"/>
+      </entry>
+      <entry id="54">
+        <translation id="0"/>
+      </entry>
+      <entry id="57">
+        <translation id="0"/>
+      </entry>
+      <entry id="58">
+        <translation id="0"/>
+      </entry>
+      <entry id="75">
+        <translation id="0"/>
+      </entry>
+      <entry id="107">
+        <translation id="0"/>
+      </entry>
+    </container>
+    <container>
+      <name>Adjective</name>
+      <specialwordtype>adjective</specialwordtype>
+      <entry id="3">
+        <translation id="0"/>
+      </entry>
+      <entry id="80">
+        <translation id="0"/>
+      </entry>
+    </container>
+    <container>
+      <name>Adverb</name>
+      <specialwordtype>adverb</specialwordtype>
+    </container>
+    <container>
+      <name>Conjunction</name>
+      <specialwordtype>conjunction</specialwordtype>
+    </container>
+  </wordtypes>
+</kvtml>
