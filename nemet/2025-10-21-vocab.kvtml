@@ -95,9 +95,6 @@
     <entry id="1">
       <translation id="0">
         <text>liegen</text>
-        <conjugation>
-          <tense>Präteritum</tense>
-        </conjugation>
       </translation>
       <translation id="1">
         <text>feküdni</text>
@@ -734,9 +731,6 @@
     <entry id="57">
       <translation id="0">
         <text>lesen</text>
-        <conjugation>
-          <tense>Präteritum</tense>
-        </conjugation>
       </translation>
       <translation id="1">
         <text>olvasni</text>
@@ -1394,6 +1388,295 @@
       <translation id="0"/>
       <translation id="1"/>
     </entry>
+    <entry id="109">
+      <translation id="0">
+        <text>Buchstabe</text>
+        <declension>
+          <male>
+            <plural>
+              <nominative>
+                <text>Buchstaben</text>
+              </nominative>
+            </plural>
+          </male>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>betű</text>
+      </translation>
+    </entry>
+    <entry id="110">
+      <translation id="0">
+        <text>Ich habe eine Idee!</text>
+      </translation>
+      <translation id="1">
+        <text>Van egy ötletem!</text>
+      </translation>
+    </entry>
+    <entry id="111">
+      <translation id="0">
+        <text>Gedicht</text>
+        <declension>
+          <neutral>
+            <plural>
+              <nominative>
+                <text>Gedichte</text>
+              </nominative>
+            </plural>
+          </neutral>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>vers</text>
+      </translation>
+    </entry>
+    <entry id="112">
+      <translation id="0">
+        <text>laufen</text>
+        <conjugation>
+          <tense>Präteritum</tense>
+          <singular>
+            <firstperson>
+              <text>laufe</text>
+            </firstperson>
+            <secondperson>
+              <text>läufst</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>läuft</text>
+            </thirdpersonneutralcommon>
+          </singular>
+          <plural>
+            <firstperson>
+              <text>laufen</text>
+            </firstperson>
+            <secondperson>
+              <text>lauft</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>laufen</text>
+            </thirdpersonneutralcommon>
+          </plural>
+        </conjugation>
+      </translation>
+      <translation id="1">
+        <text>sétálni</text>
+      </translation>
+    </entry>
+    <entry id="113">
+      <translation id="0">
+        <text>schwimmen</text>
+        <conjugation>
+          <tense>Präteritum</tense>
+          <singular>
+            <firstperson>
+              <text>schwimmen</text>
+            </firstperson>
+            <secondperson>
+              <text>schwimmst</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>schwimmt</text>
+            </thirdpersonneutralcommon>
+          </singular>
+          <plural>
+            <firstperson>
+              <text>schwimmen</text>
+            </firstperson>
+            <secondperson>
+              <text>schwimmt</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>schwimmen</text>
+            </thirdpersonneutralcommon>
+          </plural>
+        </conjugation>
+      </translation>
+      <translation id="1">
+        <text>úszni</text>
+      </translation>
+    </entry>
+    <entry id="114">
+      <translation id="0">
+        <text>malen</text>
+        <conjugation>
+          <tense>Präteritum</tense>
+          <singular>
+            <firstperson>
+              <text>male</text>
+            </firstperson>
+            <secondperson>
+              <text>malst</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>malt</text>
+            </thirdpersonneutralcommon>
+          </singular>
+          <plural>
+            <firstperson>
+              <text>malen</text>
+            </firstperson>
+            <secondperson>
+              <text>malt</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>malen</text>
+            </thirdpersonneutralcommon>
+          </plural>
+        </conjugation>
+      </translation>
+      <translation id="1">
+        <text>festeni</text>
+      </translation>
+    </entry>
+    <entry id="115">
+      <translation id="0">
+        <text>zeichnen</text>
+        <conjugation>
+          <tense>Präteritum</tense>
+          <singular>
+            <firstperson>
+              <text>zeichne</text>
+            </firstperson>
+            <secondperson>
+              <text>zeichnest</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>zeichnet</text>
+            </thirdpersonneutralcommon>
+          </singular>
+          <plural>
+            <firstperson>
+              <text>zeichnen</text>
+            </firstperson>
+            <secondperson>
+              <text>zeichnet</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>zeichnen</text>
+            </thirdpersonneutralcommon>
+          </plural>
+        </conjugation>
+      </translation>
+      <translation id="1">
+        <text>rajzolni</text>
+      </translation>
+    </entry>
+    <entry id="116">
+      <translation id="0">
+        <text>turnen</text>
+        <conjugation>
+          <tense>Präteritum</tense>
+          <singular>
+            <firstperson>
+              <text>turne</text>
+            </firstperson>
+            <secondperson>
+              <text>turnst</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>turnt</text>
+            </thirdpersonneutralcommon>
+          </singular>
+          <plural>
+            <firstperson>
+              <text>turnen</text>
+            </firstperson>
+            <secondperson>
+              <text>turnt</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>turnen</text>
+            </thirdpersonneutralcommon>
+          </plural>
+        </conjugation>
+      </translation>
+      <translation id="1">
+        <text>tornázni</text>
+      </translation>
+    </entry>
+    <entry id="117">
+      <translation id="0">
+        <text>kochen</text>
+        <conjugation>
+          <tense>Präteritum</tense>
+        </conjugation>
+      </translation>
+      <translation id="1">
+        <text>főzni</text>
+      </translation>
+    </entry>
+    <entry id="118">
+      <translation id="0">
+        <text>reiten</text>
+        <conjugation>
+          <tense>Präteritum</tense>
+          <singular>
+            <firstperson>
+              <text>reite</text>
+            </firstperson>
+            <secondperson>
+              <text>reitest</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>reitet</text>
+            </thirdpersonneutralcommon>
+          </singular>
+          <plural>
+            <firstperson>
+              <text>reiten</text>
+            </firstperson>
+            <secondperson>
+              <text>reitet</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>reiten</text>
+            </thirdpersonneutralcommon>
+          </plural>
+        </conjugation>
+      </translation>
+      <translation id="1">
+        <text>lovagolni</text>
+      </translation>
+    </entry>
+    <entry id="119">
+      <translation id="0">
+        <text>stricken</text>
+        <conjugation>
+          <tense>Präteritum</tense>
+        </conjugation>
+      </translation>
+      <translation id="1">
+        <text>kötni</text>
+      </translation>
+    </entry>
+    <entry id="120">
+      <translation id="0">
+        <text>Schach</text>
+      </translation>
+      <translation id="1">
+        <text>sakk</text>
+      </translation>
+    </entry>
+    <entry id="121">
+      <translation id="0">
+        <text>sammeln</text>
+        <conjugation>
+          <tense>Präteritum</tense>
+        </conjugation>
+      </translation>
+      <translation id="1">
+        <text>gyűjteni</text>
+      </translation>
+    </entry>
+    <entry id="122">
+      <translation id="0">
+        <text>Was ist dein Hobby?</text>
+      </translation>
+      <translation id="1">
+        <text>Mi a hobbyd?</text>
+      </translation>
+    </entry>
   </entries>
   <lessons>
     <container>
@@ -1509,11 +1792,32 @@
       <entry id="107"/>
       <entry id="108"/>
     </container>
+    <container>
+      <name></name>
+      <inpractice>true</inpractice>
+      <entry id="109"/>
+      <entry id="110"/>
+      <entry id="111"/>
+      <entry id="112"/>
+      <entry id="113"/>
+      <entry id="114"/>
+      <entry id="115"/>
+      <entry id="116"/>
+      <entry id="117"/>
+      <entry id="118"/>
+      <entry id="119"/>
+      <entry id="120"/>
+      <entry id="121"/>
+      <entry id="122"/>
+    </container>
   </lessons>
   <wordtypes>
     <container>
       <name>Noun</name>
       <specialwordtype>noun</specialwordtype>
+      <entry id="120">
+        <translation id="0"/>
+      </entry>
       <container>
         <name>Masculine</name>
         <specialwordtype>noun/male</specialwordtype>
@@ -1575,6 +1879,9 @@
           <translation id="0"/>
         </entry>
         <entry id="99">
+          <translation id="0"/>
+        </entry>
+        <entry id="109">
           <translation id="0"/>
         </entry>
       </container>
@@ -1681,6 +1988,9 @@
         <entry id="81">
           <translation id="0"/>
         </entry>
+        <entry id="111">
+          <translation id="0"/>
+        </entry>
       </container>
     </container>
     <container>
@@ -1738,6 +2048,33 @@
         <translation id="0"/>
       </entry>
       <entry id="107">
+        <translation id="0"/>
+      </entry>
+      <entry id="112">
+        <translation id="0"/>
+      </entry>
+      <entry id="113">
+        <translation id="0"/>
+      </entry>
+      <entry id="114">
+        <translation id="0"/>
+      </entry>
+      <entry id="115">
+        <translation id="0"/>
+      </entry>
+      <entry id="116">
+        <translation id="0"/>
+      </entry>
+      <entry id="117">
+        <translation id="0"/>
+      </entry>
+      <entry id="118">
+        <translation id="0"/>
+      </entry>
+      <entry id="119">
+        <translation id="0"/>
+      </entry>
+      <entry id="121">
         <translation id="0"/>
       </entry>
     </container>

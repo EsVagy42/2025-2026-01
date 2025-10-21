@@ -778,3 +778,6 @@ man - általános alany
 | wir | lesen |
 | ihr | lest |
 | sie/Sie | lesen |
+
+# 10. óra
+
