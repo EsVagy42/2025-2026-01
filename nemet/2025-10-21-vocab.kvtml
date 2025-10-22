@@ -1018,6 +1018,31 @@
     <entry id="56">
       <translation id="0">
         <text>lesen</text>
+        <conjugation>
+          <tense>Präteritum</tense>
+          <singular>
+            <firstperson>
+              <text>lese</text>
+            </firstperson>
+            <secondperson>
+              <text>liest</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>liest</text>
+            </thirdpersonneutralcommon>
+          </singular>
+          <plural>
+            <firstperson>
+              <text>lesen</text>
+            </firstperson>
+            <secondperson>
+              <text>lest</text>
+            </secondperson>
+            <thirdpersonneutralcommon>
+              <text>lesen</text>
+            </thirdpersonneutralcommon>
+          </plural>
+        </conjugation>
       </translation>
       <translation id="1">
         <text>olvasni</text>
@@ -1865,55 +1890,14 @@
       </translation>
     </entry>
     <entry id="106">
-      <translation id="0">
-        <text>lesen</text>
-        <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2025-10-21T19:15:18</date>
-          <interval>0</interval>
-        </grade>
-        <conjugation>
-          <tense>Präteritum</tense>
-          <singular>
-            <firstperson>
-              <text>lese</text>
-            </firstperson>
-            <secondperson>
-              <text>liest</text>
-            </secondperson>
-            <thirdpersonneutralcommon>
-              <text>liest</text>
-            </thirdpersonneutralcommon>
-          </singular>
-          <plural>
-            <firstperson>
-              <text>lesen</text>
-            </firstperson>
-            <secondperson>
-              <text>lest</text>
-            </secondperson>
-            <thirdpersonneutralcommon>
-              <text>lesen</text>
-            </thirdpersonneutralcommon>
-          </plural>
-        </conjugation>
-      </translation>
-      <translation id="1">
-        <text>olvas</text>
-      </translation>
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
     <entry id="107">
       <translation id="0"/>
       <translation id="1"/>
     </entry>
     <entry id="108">
-      <translation id="0"/>
-      <translation id="1"/>
-    </entry>
-    <entry id="109">
       <translation id="0">
         <text>Buchstabe</text>
         <grade>
@@ -1946,7 +1930,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="110">
+    <entry id="109">
       <translation id="0">
         <text>Ich habe eine Idee!</text>
         <grade>
@@ -1970,7 +1954,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="111">
+    <entry id="110">
       <translation id="0">
         <text>Gedicht</text>
         <grade>
@@ -2003,7 +1987,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="112">
+    <entry id="111">
       <translation id="0">
         <text>laufen</text>
         <grade>
@@ -2052,7 +2036,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="113">
+    <entry id="112">
       <translation id="0">
         <text>schwimmen</text>
         <grade>
@@ -2109,7 +2093,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="114">
+    <entry id="113">
       <translation id="0">
         <text>malen</text>
         <grade>
@@ -2166,7 +2150,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="115">
+    <entry id="114">
       <translation id="0">
         <text>zeichnen</text>
         <grade>
@@ -2215,7 +2199,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="116">
+    <entry id="115">
       <translation id="0">
         <text>turnen</text>
         <grade>
@@ -2264,7 +2248,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="117">
+    <entry id="116">
       <translation id="0">
         <text>kochen</text>
         <grade>
@@ -2288,7 +2272,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="118">
+    <entry id="117">
       <translation id="0">
         <text>reiten</text>
         <grade>
@@ -2353,7 +2337,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="119">
+    <entry id="118">
       <translation id="0">
         <text>stricken</text>
         <grade>
@@ -2377,7 +2361,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="120">
+    <entry id="119">
       <translation id="0">
         <text>Schach</text>
         <grade>
@@ -2401,7 +2385,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="121">
+    <entry id="120">
       <translation id="0">
         <text>sammeln</text>
         <grade>
@@ -2425,7 +2409,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="122">
+    <entry id="121">
       <translation id="0">
         <text>Was ist dein Hobby?</text>
         <grade>
@@ -2448,6 +2432,318 @@
           <interval>0</interval>
         </grade>
       </translation>
+    </entry>
+    <entry id="122">
+      <translation id="0">
+        <text>Becken</text>
+      </translation>
+      <translation id="1">
+        <text>medence</text>
+      </translation>
+    </entry>
+    <entry id="123">
+      <translation id="0">
+        <text>braten</text>
+      </translation>
+      <translation id="1">
+        <text>sütni</text>
+      </translation>
+    </entry>
+    <entry id="124">
+      <translation id="0">
+        <text>Kuchen</text>
+      </translation>
+      <translation id="1">
+        <text>sütemény</text>
+      </translation>
+    </entry>
+    <entry id="125">
+      <translation id="0">
+        <text>Schwimmbad</text>
+        <declension>
+          <neutral>
+            <plural>
+              <nominative>
+                <text>Schwimmbäder</text>
+              </nominative>
+            </plural>
+          </neutral>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>uszoda</text>
+      </translation>
+    </entry>
+    <entry id="126">
+      <translation id="0">
+        <text>Geige</text>
+      </translation>
+      <translation id="1">
+        <text>hegedű</text>
+      </translation>
+    </entry>
+    <entry id="127">
+      <translation id="0">
+        <text>Mütze</text>
+        <declension>
+          <female>
+            <plural>
+              <nominative>
+                <text>Mützen</text>
+              </nominative>
+            </plural>
+          </female>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>sapka</text>
+      </translation>
+    </entry>
+    <entry id="128">
+      <translation id="0">
+        <text>Suppe</text>
+        <declension>
+          <female>
+            <plural>
+              <nominative>
+                <text>Suppen</text>
+              </nominative>
+            </plural>
+          </female>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>leves</text>
+      </translation>
+    </entry>
+    <entry id="129">
+      <translation id="0">
+        <text>Zeitung</text>
+        <declension>
+          <female>
+            <plural>
+              <nominative>
+                <text>Zeitungen</text>
+              </nominative>
+            </plural>
+          </female>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>újság</text>
+      </translation>
+    </entry>
+    <entry id="130">
+      <translation id="0">
+        <text>Text</text>
+        <declension>
+          <male>
+            <plural>
+              <nominative>
+                <text>Texte</text>
+              </nominative>
+            </plural>
+          </male>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>szöveg</text>
+      </translation>
+    </entry>
+    <entry id="131">
+      <translation id="0">
+        <text>Gemälde</text>
+        <declension>
+          <neutral>
+            <plural>
+              <nominative>
+                <text>Gemälden</text>
+              </nominative>
+            </plural>
+          </neutral>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>festmény</text>
+      </translation>
+    </entry>
+    <entry id="132">
+      <translation id="0">
+        <text>Bild</text>
+        <declension>
+          <neutral>
+            <plural>
+              <nominative>
+                <text>Bilder</text>
+              </nominative>
+            </plural>
+          </neutral>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>kép</text>
+      </translation>
+    </entry>
+    <entry id="133">
+      <translation id="0">
+        <text>Liebesroman</text>
+        <declension>
+          <male>
+            <plural>
+              <nominative>
+                <text>Liebesromane</text>
+              </nominative>
+            </plural>
+          </male>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>szerelmesregény</text>
+      </translation>
+    </entry>
+    <entry id="134">
+      <translation id="0">
+        <text>Sportsuch</text>
+        <declension>
+          <female>
+            <plural>
+              <nominative>
+                <text>Sportsuche</text>
+              </nominative>
+            </plural>
+          </female>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>sportcipő</text>
+      </translation>
+    </entry>
+    <entry id="135">
+      <translation id="0">
+        <text>Badezug</text>
+        <declension>
+          <male>
+            <plural>
+              <nominative>
+                <text>Badezüge</text>
+              </nominative>
+            </plural>
+          </male>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>úszóruha</text>
+      </translation>
+    </entry>
+    <entry id="136">
+      <translation id="0">
+        <text>gern</text>
+      </translation>
+      <translation id="1">
+        <text>szívesen</text>
+      </translation>
+    </entry>
+    <entry id="137">
+      <translation id="0">
+        <text>Briefmarken</text>
+      </translation>
+      <translation id="1">
+        <text>bélyeg</text>
+      </translation>
+    </entry>
+    <entry id="138">
+      <translation id="0">
+        <text>sein</text>
+      </translation>
+      <translation id="1">
+        <text>övé</text>
+      </translation>
+    </entry>
+    <entry id="139">
+      <translation id="0">
+        <text>geschieden</text>
+      </translation>
+      <translation id="1">
+        <text>elvállt</text>
+      </translation>
+    </entry>
+    <entry id="140">
+      <translation id="0">
+        <text>Ball</text>
+      </translation>
+      <translation id="1">
+        <text>labda</text>
+      </translation>
+    </entry>
+    <entry id="141">
+      <translation id="0">
+        <text>verloren</text>
+      </translation>
+      <translation id="1">
+        <text>veszteni</text>
+      </translation>
+    </entry>
+    <entry id="142">
+      <translation id="0">
+        <text>jeden Tag</text>
+      </translation>
+      <translation id="1">
+        <text>minden nap</text>
+      </translation>
+    </entry>
+    <entry id="143">
+      <translation id="0">
+        <text>jeden Morgen</text>
+      </translation>
+      <translation id="1">
+        <text>minden reggel</text>
+      </translation>
+    </entry>
+    <entry id="144">
+      <translation id="0">
+        <text>Urlaub</text>
+      </translation>
+      <translation id="1">
+        <text>szabadság</text>
+      </translation>
+    </entry>
+    <entry id="145">
+      <translation id="0">
+        <text>Zeichnung</text>
+        <declension>
+          <female>
+            <plural>
+              <nominative>
+                <text>Zeichnungen</text>
+              </nominative>
+            </plural>
+          </female>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>rajz</text>
+      </translation>
+    </entry>
+    <entry id="146">
+      <translation id="0">
+        <text>Verein</text>
+        <declension>
+          <male>
+            <plural>
+              <nominative>
+                <text>Vereine</text>
+              </nominative>
+            </plural>
+          </male>
+        </declension>
+      </translation>
+      <translation id="1">
+        <text>egyesület</text>
+      </translation>
+    </entry>
+    <entry id="147">
+      <translation id="0"/>
+      <translation id="1"/>
     </entry>
   </entries>
   <lessons>
@@ -2561,11 +2857,11 @@
       <entry id="105"/>
       <entry id="106"/>
       <entry id="107"/>
-      <entry id="108"/>
     </container>
     <container>
       <name>Lesson 10</name>
       <inpractice>true</inpractice>
+      <entry id="108"/>
       <entry id="109"/>
       <entry id="110"/>
       <entry id="111"/>
@@ -2579,14 +2875,43 @@
       <entry id="119"/>
       <entry id="120"/>
       <entry id="121"/>
+    </container>
+    <container>
+      <name>Lesson 11</name>
+      <inpractice>true</inpractice>
       <entry id="122"/>
+      <entry id="123"/>
+      <entry id="124"/>
+      <entry id="125"/>
+      <entry id="126"/>
+      <entry id="127"/>
+      <entry id="128"/>
+      <entry id="129"/>
+      <entry id="130"/>
+      <entry id="131"/>
+      <entry id="132"/>
+      <entry id="133"/>
+      <entry id="134"/>
+      <entry id="135"/>
+      <entry id="136"/>
+      <entry id="137"/>
+      <entry id="138"/>
+      <entry id="139"/>
+      <entry id="140"/>
+      <entry id="141"/>
+      <entry id="142"/>
+      <entry id="143"/>
+      <entry id="144"/>
+      <entry id="145"/>
+      <entry id="146"/>
+      <entry id="147"/>
     </container>
   </lessons>
   <wordtypes>
     <container>
       <name>Noun</name>
       <specialwordtype>noun</specialwordtype>
-      <entry id="120">
+      <entry id="119">
         <translation id="0"/>
       </entry>
       <container>
@@ -2652,7 +2977,28 @@
         <entry id="98">
           <translation id="0"/>
         </entry>
-        <entry id="109">
+        <entry id="108">
+          <translation id="0"/>
+        </entry>
+        <entry id="124">
+          <translation id="0"/>
+        </entry>
+        <entry id="130">
+          <translation id="0"/>
+        </entry>
+        <entry id="133">
+          <translation id="0"/>
+        </entry>
+        <entry id="135">
+          <translation id="0"/>
+        </entry>
+        <entry id="140">
+          <translation id="0"/>
+        </entry>
+        <entry id="144">
+          <translation id="0"/>
+        </entry>
+        <entry id="146">
           <translation id="0"/>
         </entry>
       </container>
@@ -2734,6 +3080,24 @@
         <entry id="100">
           <translation id="0"/>
         </entry>
+        <entry id="126">
+          <translation id="0"/>
+        </entry>
+        <entry id="127">
+          <translation id="0"/>
+        </entry>
+        <entry id="128">
+          <translation id="0"/>
+        </entry>
+        <entry id="129">
+          <translation id="0"/>
+        </entry>
+        <entry id="134">
+          <translation id="0"/>
+        </entry>
+        <entry id="145">
+          <translation id="0"/>
+        </entry>
       </container>
       <container>
         <name>Neuter</name>
@@ -2759,7 +3123,19 @@
         <entry id="80">
           <translation id="0"/>
         </entry>
-        <entry id="111">
+        <entry id="110">
+          <translation id="0"/>
+        </entry>
+        <entry id="122">
+          <translation id="0"/>
+        </entry>
+        <entry id="125">
+          <translation id="0"/>
+        </entry>
+        <entry id="131">
+          <translation id="0"/>
+        </entry>
+        <entry id="132">
           <translation id="0"/>
         </entry>
       </container>
@@ -2815,7 +3191,7 @@
       <entry id="74">
         <translation id="0"/>
       </entry>
-      <entry id="106">
+      <entry id="111">
         <translation id="0"/>
       </entry>
       <entry id="112">
@@ -2839,10 +3215,13 @@
       <entry id="118">
         <translation id="0"/>
       </entry>
-      <entry id="119">
+      <entry id="120">
         <translation id="0"/>
       </entry>
-      <entry id="121">
+      <entry id="123">
+        <translation id="0"/>
+      </entry>
+      <entry id="141">
         <translation id="0"/>
       </entry>
     </container>
@@ -2865,4 +3244,22 @@
       <specialwordtype>conjunction</specialwordtype>
     </container>
   </wordtypes>
+  <synonym>
+    <pair>
+      <entry id="21">
+        <translation id="0"/>
+      </entry>
+      <entry id="22">
+        <translation id="0"/>
+      </entry>
+    </pair>
+    <pair>
+      <entry id="23">
+        <translation id="0"/>
+      </entry>
+      <entry id="24">
+        <translation id="0"/>
+      </entry>
+    </pair>
+  </synonym>
 </kvtml>

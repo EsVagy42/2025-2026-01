@@ -781,3 +781,19 @@ man - általános alany
 
 # 10. óra
 
+# 11. óra
+
+Sie hört gern Popmusik. -> **Popmusik** hört sie gern.
+
+## birtokos névmás
+
+| alany | hímnem, semlegesnem | nőnem | semlegesnem |
+| --- | --- | --- | --- |
+| ich | mein | meine | meine |
+| du | dein | deine | deine |
+| er | sein | seine | seine |
+| sie | ihr | ihre | ihre |
+| es | sein | seine | seine |
+| wir | unser | unsere | unsere |
+| ihr | euer | euere | eure |
+| sie/Sie | ihr/Ihr | ihre/Ihre | ihre/Ihre |
