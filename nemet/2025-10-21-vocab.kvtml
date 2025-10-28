@@ -6,7 +6,7 @@
     <title>Német gyakorlás</title>
     <author>EsVagy</author>
     <license>Public Domain</license>
-    <date>2025-10-22</date>
+    <date>2025-10-28</date>
     <category>Languages</category>
   </information>
   <identifiers>
@@ -98,6 +98,14 @@
       </translation>
       <translation id="1">
         <text>jönni</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-10-28T16:40:55</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="1">
@@ -166,9 +174,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:14:45</date>
+          <date>2025-10-28T16:43:41</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -182,9 +190,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:11:39</date>
+          <date>2025-10-28T16:41:24</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -231,9 +239,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:08:43</date>
+          <date>2025-10-28T16:47:56</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -270,10 +278,10 @@
         <text>tetszeni</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:24:14</date>
+          <date>2025-10-27T16:39:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -320,9 +328,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:19:41</date>
+          <date>2025-10-28T16:45:43</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -330,6 +338,14 @@
     <entry id="12">
       <translation id="0">
         <text>tanzen</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-10-28T16:43:58</date>
+          <interval>0</interval>
+        </grade>
         <conjugation>
           <tense>Präteritum</tense>
           <singular>
@@ -366,9 +382,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:19:28</date>
+          <date>2025-10-28T16:45:27</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -391,11 +407,11 @@
       <translation id="1">
         <text>Hol laksz?</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2025-10-21T19:09:14</date>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-10-28T16:46:31</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -405,10 +421,10 @@
         <text>Was trinkst du?</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:16:01</date>
+          <date>2025-10-27T16:39:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -435,6 +451,14 @@
     <entry id="19">
       <translation id="0">
         <text>Wie geht es dir?</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-10-28T16:45:37</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>Hogy vagy?</text>
@@ -465,9 +489,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:06:13</date>
+          <date>2025-10-28T16:50:08</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -478,9 +502,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:29:15</date>
+          <date>2025-10-28T16:50:32</date>
           <interval>0</interval>
         </grade>
         <declension>
@@ -527,9 +551,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:17:53</date>
+          <date>2025-10-28T16:46:49</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -537,10 +561,10 @@
         <text>szülők</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:10:49</date>
+          <date>2025-10-27T16:39:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -559,6 +583,14 @@
       </translation>
       <translation id="1">
         <text>anya</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-10-28T16:39:55</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="28">
@@ -586,9 +618,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:22:28</date>
+          <date>2025-10-28T16:49:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -646,9 +678,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:10:56</date>
+          <date>2025-10-28T16:44:48</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -659,9 +691,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:08:33</date>
+          <date>2025-10-28T16:47:53</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -710,20 +742,20 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:24:09</date>
+          <date>2025-10-28T16:46:05</date>
           <interval>0</interval>
         </grade>
       </translation>
       <translation id="1">
         <text>lány unoka</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2025-10-21T19:18:06</date>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-10-28T16:46:36</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -734,9 +766,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:21:15</date>
+          <date>2025-10-28T16:45:49</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -749,10 +781,10 @@
         <text>Enkelkinder</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:18:16</date>
+          <date>2025-10-27T16:39:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -776,6 +808,14 @@
       </translation>
       <translation id="1">
         <text>unokatestvér lány</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-10-28T16:39:47</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="41">
@@ -825,11 +865,11 @@
       <translation id="1">
         <text>rendőrnő</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2025-10-21T19:21:59</date>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-10-28T16:46:22</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -856,9 +896,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:12:13</date>
+          <date>2025-10-28T16:49:54</date>
           <interval>0</interval>
         </grade>
         <declension>
@@ -878,6 +918,14 @@
     <entry id="48">
       <translation id="0">
         <text>Fremdsprachen</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2025-10-28T16:49:19</date>
+          <interval>0</interval>
+        </grade>
         <declension>
           <female>
             <plural>
@@ -932,9 +980,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:06:36</date>
+          <date>2025-10-28T16:43:26</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -942,10 +990,10 @@
         <text>utazni</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:14:28</date>
+          <date>2025-10-27T16:39:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -972,9 +1020,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:28:03</date>
+          <date>2025-10-28T16:41:45</date>
           <interval>0</interval>
         </grade>
         <declension>
@@ -997,9 +1045,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:06:05</date>
+          <date>2025-10-28T16:43:22</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1008,9 +1056,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:09:30</date>
+          <date>2025-10-28T16:50:41</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1053,10 +1101,10 @@
         <text>sprechen</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:28:30</date>
+          <date>2025-10-27T16:39:14</date>
           <interval>0</interval>
         </grade>
         <conjugation>
@@ -1092,6 +1140,14 @@
     <entry id="58">
       <translation id="0">
         <text>Was bist du von Beruf?</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-10-28T16:51:27</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>Mit dolgozol?</text>
@@ -1164,10 +1220,10 @@
         <text>egyetemi hallgató</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:23:01</date>
+          <date>2025-10-27T16:39:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1234,6 +1290,14 @@
     <entry id="66">
       <translation id="0">
         <text>Verkäufer</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-10-28T16:46:45</date>
+          <interval>0</interval>
+        </grade>
         <declension>
           <male>
             <plural>
@@ -1249,9 +1313,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:06:10</date>
+          <date>2025-10-28T16:40:03</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1300,6 +1364,14 @@
     <entry id="71">
       <translation id="0">
         <text>ein wenig</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-10-28T16:42:00</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>egy kevés</text>
@@ -1307,7 +1379,15 @@
     </entry>
     <entry id="72">
       <translation id="0">
-        <text>die Universität</text>
+        <text>Universität</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-10-28T16:41:15</date>
+          <interval>0</interval>
+        </grade>
         <declension>
           <female>
             <plural>
@@ -1344,9 +1424,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:14:13</date>
+          <date>2025-10-28T16:48:43</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1368,20 +1448,20 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:13:24</date>
+          <date>2025-10-28T16:49:50</date>
           <interval>0</interval>
         </grade>
       </translation>
       <translation id="1">
         <text>szinte mindent</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2025-10-21T19:21:21</date>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-10-28T16:44:10</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1400,9 +1480,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:09:18</date>
+          <date>2025-10-28T16:51:04</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1477,10 +1557,10 @@
         <text>piac</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:20:12</date>
+          <date>2025-10-27T16:39:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1511,9 +1591,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:23:11</date>
+          <date>2025-10-28T16:40:46</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1551,10 +1631,10 @@
         <text>nemzetek</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:24:42</date>
+          <date>2025-10-27T16:39:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1577,9 +1657,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:15:54</date>
+          <date>2025-10-28T16:49:12</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1599,6 +1679,14 @@
       </translation>
       <translation id="1">
         <text>osztrák nő</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-10-28T16:43:35</date>
+          <interval>0</interval>
+        </grade>
       </translation>
     </entry>
     <entry id="88">
@@ -1617,11 +1705,11 @@
       <translation id="1">
         <text>német</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2025-10-21T19:08:11</date>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-10-28T16:44:54</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1632,9 +1720,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-22T11:20:45</date>
+          <date>2025-10-28T16:48:30</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1679,11 +1767,11 @@
       <translation id="0">
         <text>Portugiese</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2025-10-21T19:24:39</date>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-10-28T16:49:24</date>
           <interval>0</interval>
         </grade>
         <declension>
@@ -1704,11 +1792,11 @@
       <translation id="0">
         <text>Portugiesin</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
-          <errorcount>0</errorcount>
-          <date>2025-10-21T19:29:25</date>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-10-28T16:44:04</date>
           <interval>0</interval>
         </grade>
         <declension>
@@ -1758,9 +1846,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:10:31</date>
+          <date>2025-10-28T16:49:43</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1788,10 +1876,10 @@
         <text>Chinesin</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
+          <currentgrade>1</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2025-10-22T11:20:19</date>
+          <date>2025-10-27T16:39:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1847,9 +1935,9 @@
         <grade>
           <pregrade>0</pregrade>
           <currentgrade>2</currentgrade>
-          <count>1</count>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-21T19:19:17</date>
+          <date>2025-10-28T16:50:04</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1898,6 +1986,10 @@
       <translation id="1"/>
     </entry>
     <entry id="108">
+      <translation id="0"/>
+      <translation id="1"/>
+    </entry>
+    <entry id="109">
       <translation id="0">
         <text>Buchstabe</text>
         <grade>
@@ -1922,15 +2014,15 @@
         <text>betű</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2025-10-22T11:34:50</date>
+          <date>2025-10-28T16:41:00</date>
           <interval>0</interval>
         </grade>
       </translation>
     </entry>
-    <entry id="109">
+    <entry id="110">
       <translation id="0">
         <text>Ich habe eine Idee!</text>
         <grade>
@@ -1954,7 +2046,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="110">
+    <entry id="111">
       <translation id="0">
         <text>Gedicht</text>
         <grade>
@@ -1979,15 +2071,15 @@
         <text>vers</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2025-10-22T11:36:04</date>
+          <date>2025-10-28T16:42:31</date>
           <interval>0</interval>
         </grade>
       </translation>
     </entry>
-    <entry id="111">
+    <entry id="112">
       <translation id="0">
         <text>laufen</text>
         <grade>
@@ -2036,7 +2128,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="112">
+    <entry id="113">
       <translation id="0">
         <text>schwimmen</text>
         <grade>
@@ -2085,15 +2177,15 @@
         <text>úszni</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2025-10-22T11:35:01</date>
+          <date>2025-10-28T16:39:18</date>
           <interval>0</interval>
         </grade>
       </translation>
     </entry>
-    <entry id="113">
+    <entry id="114">
       <translation id="0">
         <text>malen</text>
         <grade>
@@ -2142,15 +2234,15 @@
         <text>festeni</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2025-10-22T11:35:41</date>
+          <date>2025-10-28T16:41:03</date>
           <interval>0</interval>
         </grade>
       </translation>
     </entry>
-    <entry id="114">
+    <entry id="115">
       <translation id="0">
         <text>zeichnen</text>
         <grade>
@@ -2191,15 +2283,15 @@
         <text>rajzolni</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2025-10-22T11:35:26</date>
+          <date>2025-10-28T16:40:52</date>
           <interval>0</interval>
         </grade>
       </translation>
     </entry>
-    <entry id="115">
+    <entry id="116">
       <translation id="0">
         <text>turnen</text>
         <grade>
@@ -2240,15 +2332,15 @@
         <text>tornázni</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2025-10-22T11:34:38</date>
+          <date>2025-10-28T16:39:52</date>
           <interval>0</interval>
         </grade>
       </translation>
     </entry>
-    <entry id="116">
+    <entry id="117">
       <translation id="0">
         <text>kochen</text>
         <grade>
@@ -2264,15 +2356,15 @@
         <text>főzni</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2025-10-22T11:35:09</date>
+          <date>2025-10-28T16:41:18</date>
           <interval>0</interval>
         </grade>
       </translation>
     </entry>
-    <entry id="117">
+    <entry id="118">
       <translation id="0">
         <text>reiten</text>
         <grade>
@@ -2329,15 +2421,15 @@
         <text>lovagolni</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2025-10-22T11:34:58</date>
+          <date>2025-10-28T16:39:30</date>
           <interval>0</interval>
         </grade>
       </translation>
     </entry>
-    <entry id="118">
+    <entry id="119">
       <translation id="0">
         <text>stricken</text>
         <grade>
@@ -2353,15 +2445,15 @@
         <text>kötni</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2025-10-22T11:34:42</date>
+          <date>2025-10-28T16:39:25</date>
           <interval>0</interval>
         </grade>
       </translation>
     </entry>
-    <entry id="119">
+    <entry id="120">
       <translation id="0">
         <text>Schach</text>
         <grade>
@@ -2377,15 +2469,15 @@
         <text>sakk</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
+          <currentgrade>4</currentgrade>
+          <count>3</count>
           <errorcount>0</errorcount>
-          <date>2025-10-22T11:36:52</date>
+          <date>2025-10-28T16:41:42</date>
           <interval>0</interval>
         </grade>
       </translation>
     </entry>
-    <entry id="120">
+    <entry id="121">
       <translation id="0">
         <text>sammeln</text>
         <grade>
@@ -2409,7 +2501,7 @@
         </grade>
       </translation>
     </entry>
-    <entry id="121">
+    <entry id="122">
       <translation id="0">
         <text>Was ist dein Hobby?</text>
         <grade>
@@ -2424,16 +2516,16 @@
       <translation id="1">
         <text>Mi a hobbyd?</text>
         <grade>
-          <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
-          <count>2</count>
-          <errorcount>0</errorcount>
-          <date>2025-10-22T11:35:56</date>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>1</errorcount>
+          <date>2025-10-28T16:42:06</date>
           <interval>0</interval>
         </grade>
       </translation>
     </entry>
-    <entry id="122">
+    <entry id="123">
       <translation id="0">
         <text>Becken</text>
       </translation>
@@ -2441,7 +2533,7 @@
         <text>medence</text>
       </translation>
     </entry>
-    <entry id="123">
+    <entry id="124">
       <translation id="0">
         <text>braten</text>
       </translation>
@@ -2449,7 +2541,7 @@
         <text>sütni</text>
       </translation>
     </entry>
-    <entry id="124">
+    <entry id="125">
       <translation id="0">
         <text>Kuchen</text>
       </translation>
@@ -2457,7 +2549,7 @@
         <text>sütemény</text>
       </translation>
     </entry>
-    <entry id="125">
+    <entry id="126">
       <translation id="0">
         <text>Schwimmbad</text>
         <declension>
@@ -2474,7 +2566,7 @@
         <text>uszoda</text>
       </translation>
     </entry>
-    <entry id="126">
+    <entry id="127">
       <translation id="0">
         <text>Geige</text>
       </translation>
@@ -2482,7 +2574,7 @@
         <text>hegedű</text>
       </translation>
     </entry>
-    <entry id="127">
+    <entry id="128">
       <translation id="0">
         <text>Mütze</text>
         <declension>
@@ -2499,7 +2591,7 @@
         <text>sapka</text>
       </translation>
     </entry>
-    <entry id="128">
+    <entry id="129">
       <translation id="0">
         <text>Suppe</text>
         <declension>
@@ -2516,7 +2608,7 @@
         <text>leves</text>
       </translation>
     </entry>
-    <entry id="129">
+    <entry id="130">
       <translation id="0">
         <text>Zeitung</text>
         <declension>
@@ -2533,7 +2625,7 @@
         <text>újság</text>
       </translation>
     </entry>
-    <entry id="130">
+    <entry id="131">
       <translation id="0">
         <text>Text</text>
         <declension>
@@ -2550,7 +2642,7 @@
         <text>szöveg</text>
       </translation>
     </entry>
-    <entry id="131">
+    <entry id="132">
       <translation id="0">
         <text>Gemälde</text>
         <declension>
@@ -2567,7 +2659,7 @@
         <text>festmény</text>
       </translation>
     </entry>
-    <entry id="132">
+    <entry id="133">
       <translation id="0">
         <text>Bild</text>
         <declension>
@@ -2584,7 +2676,7 @@
         <text>kép</text>
       </translation>
     </entry>
-    <entry id="133">
+    <entry id="134">
       <translation id="0">
         <text>Liebesroman</text>
         <declension>
@@ -2601,7 +2693,7 @@
         <text>szerelmesregény</text>
       </translation>
     </entry>
-    <entry id="134">
+    <entry id="135">
       <translation id="0">
         <text>Sportsuch</text>
         <declension>
@@ -2618,7 +2710,7 @@
         <text>sportcipő</text>
       </translation>
     </entry>
-    <entry id="135">
+    <entry id="136">
       <translation id="0">
         <text>Badezug</text>
         <declension>
@@ -2635,7 +2727,7 @@
         <text>úszóruha</text>
       </translation>
     </entry>
-    <entry id="136">
+    <entry id="137">
       <translation id="0">
         <text>gern</text>
       </translation>
@@ -2643,15 +2735,23 @@
         <text>szívesen</text>
       </translation>
     </entry>
-    <entry id="137">
+    <entry id="138">
       <translation id="0">
         <text>Briefmarken</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2025-10-28T16:51:35</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>bélyeg</text>
       </translation>
     </entry>
-    <entry id="138">
+    <entry id="139">
       <translation id="0">
         <text>sein</text>
       </translation>
@@ -2659,7 +2759,7 @@
         <text>övé</text>
       </translation>
     </entry>
-    <entry id="139">
+    <entry id="140">
       <translation id="0">
         <text>geschieden</text>
       </translation>
@@ -2667,7 +2767,7 @@
         <text>elvállt</text>
       </translation>
     </entry>
-    <entry id="140">
+    <entry id="141">
       <translation id="0">
         <text>Ball</text>
       </translation>
@@ -2675,7 +2775,7 @@
         <text>labda</text>
       </translation>
     </entry>
-    <entry id="141">
+    <entry id="142">
       <translation id="0">
         <text>verloren</text>
       </translation>
@@ -2683,7 +2783,7 @@
         <text>veszteni</text>
       </translation>
     </entry>
-    <entry id="142">
+    <entry id="143">
       <translation id="0">
         <text>jeden Tag</text>
       </translation>
@@ -2691,25 +2791,49 @@
         <text>minden nap</text>
       </translation>
     </entry>
-    <entry id="143">
+    <entry id="144">
       <translation id="0">
         <text>jeden Morgen</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-10-28T16:45:19</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>minden reggel</text>
       </translation>
     </entry>
-    <entry id="144">
+    <entry id="145">
       <translation id="0">
         <text>Urlaub</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-10-28T16:49:32</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>szabadság</text>
       </translation>
     </entry>
-    <entry id="145">
+    <entry id="146">
       <translation id="0">
         <text>Zeichnung</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-10-28T16:50:37</date>
+          <interval>0</interval>
+        </grade>
         <declension>
           <female>
             <plural>
@@ -2724,7 +2848,7 @@
         <text>rajz</text>
       </translation>
     </entry>
-    <entry id="146">
+    <entry id="147">
       <translation id="0">
         <text>Verein</text>
         <declension>
@@ -2741,7 +2865,7 @@
         <text>egyesület</text>
       </translation>
     </entry>
-    <entry id="147">
+    <entry id="148">
       <translation id="0"/>
       <translation id="1"/>
     </entry>
@@ -2749,6 +2873,7 @@
   <lessons>
     <container>
       <name>Lesson 1-9</name>
+      <inpractice>true</inpractice>
       <entry id="0"/>
       <entry id="1"/>
       <entry id="2"/>
@@ -2857,11 +2982,11 @@
       <entry id="105"/>
       <entry id="106"/>
       <entry id="107"/>
+      <entry id="108"/>
     </container>
     <container>
       <name>Lesson 10</name>
       <inpractice>true</inpractice>
-      <entry id="108"/>
       <entry id="109"/>
       <entry id="110"/>
       <entry id="111"/>
@@ -2875,11 +3000,11 @@
       <entry id="119"/>
       <entry id="120"/>
       <entry id="121"/>
+      <entry id="122"/>
     </container>
     <container>
       <name>Lesson 11</name>
       <inpractice>true</inpractice>
-      <entry id="122"/>
       <entry id="123"/>
       <entry id="124"/>
       <entry id="125"/>
@@ -2905,13 +3030,14 @@
       <entry id="145"/>
       <entry id="146"/>
       <entry id="147"/>
+      <entry id="148"/>
     </container>
   </lessons>
   <wordtypes>
     <container>
       <name>Noun</name>
       <specialwordtype>noun</specialwordtype>
-      <entry id="119">
+      <entry id="120">
         <translation id="0"/>
       </entry>
       <container>
@@ -2977,28 +3103,28 @@
         <entry id="98">
           <translation id="0"/>
         </entry>
-        <entry id="108">
+        <entry id="109">
           <translation id="0"/>
         </entry>
-        <entry id="124">
+        <entry id="125">
           <translation id="0"/>
         </entry>
-        <entry id="130">
+        <entry id="131">
           <translation id="0"/>
         </entry>
-        <entry id="133">
+        <entry id="134">
           <translation id="0"/>
         </entry>
-        <entry id="135">
+        <entry id="136">
           <translation id="0"/>
         </entry>
-        <entry id="140">
+        <entry id="141">
           <translation id="0"/>
         </entry>
-        <entry id="144">
+        <entry id="145">
           <translation id="0"/>
         </entry>
-        <entry id="146">
+        <entry id="147">
           <translation id="0"/>
         </entry>
       </container>
@@ -3080,9 +3206,6 @@
         <entry id="100">
           <translation id="0"/>
         </entry>
-        <entry id="126">
-          <translation id="0"/>
-        </entry>
         <entry id="127">
           <translation id="0"/>
         </entry>
@@ -3092,10 +3215,13 @@
         <entry id="129">
           <translation id="0"/>
         </entry>
-        <entry id="134">
+        <entry id="130">
           <translation id="0"/>
         </entry>
-        <entry id="145">
+        <entry id="135">
+          <translation id="0"/>
+        </entry>
+        <entry id="146">
           <translation id="0"/>
         </entry>
       </container>
@@ -3123,19 +3249,19 @@
         <entry id="80">
           <translation id="0"/>
         </entry>
-        <entry id="110">
+        <entry id="111">
           <translation id="0"/>
         </entry>
-        <entry id="122">
+        <entry id="123">
           <translation id="0"/>
         </entry>
-        <entry id="125">
-          <translation id="0"/>
-        </entry>
-        <entry id="131">
+        <entry id="126">
           <translation id="0"/>
         </entry>
         <entry id="132">
+          <translation id="0"/>
+        </entry>
+        <entry id="133">
           <translation id="0"/>
         </entry>
       </container>
@@ -3191,9 +3317,6 @@
       <entry id="74">
         <translation id="0"/>
       </entry>
-      <entry id="111">
-        <translation id="0"/>
-      </entry>
       <entry id="112">
         <translation id="0"/>
       </entry>
@@ -3215,13 +3338,16 @@
       <entry id="118">
         <translation id="0"/>
       </entry>
-      <entry id="120">
+      <entry id="119">
         <translation id="0"/>
       </entry>
-      <entry id="123">
+      <entry id="121">
         <translation id="0"/>
       </entry>
-      <entry id="141">
+      <entry id="124">
+        <translation id="0"/>
+      </entry>
+      <entry id="142">
         <translation id="0"/>
       </entry>
     </container>
