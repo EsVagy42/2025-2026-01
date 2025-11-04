@@ -797,3 +797,12 @@ Sie hört gern Popmusik. -> **Popmusik** hört sie gern.
 | wir | unser | unsere | unsere |
 | ihr | euer | euere | eure |
 | sie/Sie | ihr/Ihr | ihre/Ihre | ihre/Ihre |
+
+# 12. óra
+
+| magyar | német |
+| --- | --- |
+| Tudok focizni | Ich kann Fußball spielen |
+| Tudsz focizni? | Kannst du Fußball spielen? |
+
+- [] hf: 37/a5
