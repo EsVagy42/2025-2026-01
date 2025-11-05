@@ -804,5 +804,3 @@ Sie hört gern Popmusik. -> **Popmusik** hört sie gern.
 | --- | --- |
 | Tudok focizni | Ich kann Fußball spielen |
 | Tudsz focizni? | Kannst du Fußball spielen? |
-
-- [] hf: 37/a5
