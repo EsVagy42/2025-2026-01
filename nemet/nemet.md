@@ -804,3 +804,22 @@ Sie hört gern Popmusik. -> **Popmusik** hört sie gern.
 | --- | --- |
 | Tudok focizni | Ich kann Fußball spielen |
 | Tudsz focizni? | Kannst du Fußball spielen? |
+
+# 13. óra
+
+In meinem Zimmer habe ich meinem Computer, meine Brille, viele Kugelschreiber, eine Lampe und viele Stift.
+
+| der Drucker | M. | F. | N. | Pl. | eset |
+| --- | --- | --- | --- | --- | --- |
+| Nom | der Drucker | die Lampe | das Gerät | die Bücher | alapeset |
+| Akk | den Drucker | die Lampe | das Gerät | die Bücher | tárgyeset |
+| Dat | dem Drucker | der Lampe | dem Gerät | den Büchern | részeseset |
+
+Aus dem Drucker kommt ein Papier.\
+In den Büchern sind viele Satze.
+
+| ein | M. | F. | N. | Pl. |
+| --- | --- | --- | --- | --- |
+| Nom | ein Dr. | eine Lampe | ein G. | keine Bücher |
+| Akk | einen Dr. | eine Lampe | ein G. | keine Bücher |
+| Dat | einem Dr. | einer Lampe | einem G. | keinen Büchern |
