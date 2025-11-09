@@ -2,11 +2,11 @@
 <!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
 <kvtml version="2.0">
   <information>
-    <generator>Parley 25.08.2</generator>
+    <generator>Parley 25.08.3</generator>
     <title>Német gyakorlás</title>
     <author>EsVagy</author>
     <license>Public Domain</license>
-    <date>2025-11-07</date>
+    <date>2025-11-09</date>
     <category>Languages</category>
   </information>
   <identifiers>
@@ -429,10 +429,10 @@
         <text>Wie heißt du?</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>3</count>
           <errorcount>0</errorcount>
-          <date>2025-10-31T19:06:04</date>
+          <date>2025-11-05T22:41:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -509,10 +509,10 @@
         <text>Wie geht es dir?</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-31T19:07:24</date>
+          <date>2025-11-05T22:41:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -614,10 +614,10 @@
         <text>Eltern</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>3</count>
           <errorcount>0</errorcount>
-          <date>2025-10-31T19:08:01</date>
+          <date>2025-11-05T22:41:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -813,10 +813,10 @@
         <text>Enkelin</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>3</count>
           <errorcount>0</errorcount>
-          <date>2025-10-31T19:06:43</date>
+          <date>2025-11-05T22:41:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -895,10 +895,10 @@
         <text>Cousin</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2025-11-04T19:16:59</date>
+          <date>2025-11-07T22:41:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -1107,10 +1107,10 @@
         <text>Tier</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>3</count>
           <errorcount>0</errorcount>
-          <date>2025-10-31T19:08:21</date>
+          <date>2025-11-05T22:41:59</date>
           <interval>0</interval>
         </grade>
         <declension>
@@ -1719,10 +1719,10 @@
         <text>viele</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>1</currentgrade>
+          <currentgrade>0</currentgrade>
           <count>1</count>
           <errorcount>0</errorcount>
-          <date>2025-11-04T19:16:59</date>
+          <date>2025-11-07T22:41:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -2118,10 +2118,10 @@
         <text>Chef</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>3</count>
           <errorcount>0</errorcount>
-          <date>2025-10-31T19:05:24</date>
+          <date>2025-11-05T22:41:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -3032,10 +3032,10 @@
         <text>jeden Morgen</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>3</currentgrade>
+          <currentgrade>2</currentgrade>
           <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-10-31T19:07:31</date>
+          <date>2025-11-05T22:41:59</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -6021,15 +6021,14 @@
     <entry id="261">
       <translation id="0">
         <text>Bürostuhl</text>
-        <declension>
-          <male>
-            <plural>
-              <nominative>
-                <text>Bürostühle</text>
-              </nominative>
-            </plural>
-          </male>
-        </declension>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-11-07T22:42:14</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>irodai szék</text>
@@ -6038,15 +6037,14 @@
     <entry id="262">
       <translation id="0">
         <text>Drucker</text>
-        <declension>
-          <male>
-            <plural>
-              <nominative>
-                <text>Drucker</text>
-              </nominative>
-            </plural>
-          </male>
-        </declension>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-11-07T22:46:39</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>nyomtató</text>
@@ -6055,15 +6053,6 @@
     <entry id="263">
       <translation id="0">
         <text>Computer</text>
-        <declension>
-          <male>
-            <plural>
-              <nominative>
-                <text>Computer</text>
-              </nominative>
-            </plural>
-          </male>
-        </declension>
       </translation>
       <translation id="1">
         <text>számítógép</text>
@@ -6072,15 +6061,6 @@
     <entry id="264">
       <translation id="0">
         <text>Bildschirm</text>
-        <declension>
-          <male>
-            <plural>
-              <nominative>
-                <text>Bildschirme</text>
-              </nominative>
-            </plural>
-          </male>
-        </declension>
       </translation>
       <translation id="1">
         <text>képernyő</text>
@@ -6089,15 +6069,6 @@
     <entry id="265">
       <translation id="0">
         <text>Lampe</text>
-        <declension>
-          <female>
-            <plural>
-              <nominative>
-                <text>Lampen</text>
-              </nominative>
-            </plural>
-          </female>
-        </declension>
       </translation>
       <translation id="1">
         <text>lámpa</text>
@@ -6106,15 +6077,14 @@
     <entry id="266">
       <translation id="0">
         <text>Gerät</text>
-        <declension>
-          <neutral>
-            <plural>
-              <nominative>
-                <text>Geräte</text>
-              </nominative>
-            </plural>
-          </neutral>
-        </declension>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2025-11-07T22:53:57</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>eszköz</text>
@@ -6123,15 +6093,6 @@
     <entry id="267">
       <translation id="0">
         <text>Laptop</text>
-        <declension>
-          <male>
-            <plural>
-              <nominative>
-                <text>Laptops</text>
-              </nominative>
-            </plural>
-          </male>
-        </declension>
       </translation>
       <translation id="1">
         <text>laptop</text>
@@ -6140,15 +6101,6 @@
     <entry id="268">
       <translation id="0">
         <text>Tisch</text>
-        <declension>
-          <male>
-            <plural>
-              <nominative>
-                <text>Tische</text>
-              </nominative>
-            </plural>
-          </male>
-        </declension>
       </translation>
       <translation id="1">
         <text>asztal</text>
@@ -6157,15 +6109,14 @@
     <entry id="269">
       <translation id="0">
         <text>Regal</text>
-        <declension>
-          <neutral>
-            <plural>
-              <nominative>
-                <text>Regale</text>
-              </nominative>
-            </plural>
-          </neutral>
-        </declension>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-11-07T22:51:04</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>polc</text>
@@ -6174,15 +6125,14 @@
     <entry id="270">
       <translation id="0">
         <text>Kaffeemaschine</text>
-        <declension>
-          <female>
-            <plural>
-              <nominative>
-                <text>Kaffeemaschinen</text>
-              </nominative>
-            </plural>
-          </female>
-        </declension>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2025-11-07T22:52:24</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>kávéfőző</text>
@@ -6199,15 +6149,14 @@
     <entry id="272">
       <translation id="0">
         <text>Papierkorb</text>
-        <declension>
-          <male>
-            <plural>
-              <nominative>
-                <text>Papierkörbe</text>
-              </nominative>
-            </plural>
-          </male>
-        </declension>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-11-07T22:44:17</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>papírkosár</text>
@@ -6216,15 +6165,6 @@
     <entry id="273">
       <translation id="0">
         <text>Mülleimer</text>
-        <declension>
-          <male>
-            <plural>
-              <nominative>
-                <text>Mülleimer</text>
-              </nominative>
-            </plural>
-          </male>
-        </declension>
       </translation>
       <translation id="1">
         <text>szemetes</text>
@@ -6233,15 +6173,6 @@
     <entry id="274">
       <translation id="0">
         <text>Büroschublade</text>
-        <declension>
-          <female>
-            <plural>
-              <nominative>
-                <text>Büroschubladen</text>
-              </nominative>
-            </plural>
-          </female>
-        </declension>
       </translation>
       <translation id="1">
         <text>irodai fiók</text>
@@ -6250,15 +6181,14 @@
     <entry id="275">
       <translation id="0">
         <text>Taschenrechner</text>
-        <declension>
-          <male>
-            <plural>
-              <nominative>
-                <text>Taschenrechner</text>
-              </nominative>
-            </plural>
-          </male>
-        </declension>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>3</errorcount>
+          <date>2025-11-07T22:53:20</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>számológép</text>
@@ -6267,15 +6197,6 @@
     <entry id="276">
       <translation id="0">
         <text>Scanner</text>
-        <declension>
-          <male>
-            <plural>
-              <nominative>
-                <text>Scanner</text>
-              </nominative>
-            </plural>
-          </male>
-        </declension>
       </translation>
       <translation id="1">
         <text>szkenner</text>
@@ -6284,15 +6205,14 @@
     <entry id="277">
       <translation id="0">
         <text>Handy</text>
-        <declension>
-          <neutral>
-            <plural>
-              <nominative>
-                <text>Handys</text>
-              </nominative>
-            </plural>
-          </neutral>
-        </declension>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-11-07T22:46:25</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>mobiltelefon</text>
@@ -6301,15 +6221,6 @@
     <entry id="278">
       <translation id="0">
         <text>Lieblingslied</text>
-        <declension>
-          <neutral>
-            <plural>
-              <nominative>
-                <text>Lieblingslieder</text>
-              </nominative>
-            </plural>
-          </neutral>
-        </declension>
       </translation>
       <translation id="1">
         <text>kedvenc dal</text>
@@ -6318,15 +6229,6 @@
     <entry id="279">
       <translation id="0">
         <text>Jacke</text>
-        <declension>
-          <female>
-            <plural>
-              <nominative>
-                <text>Jacken</text>
-              </nominative>
-            </plural>
-          </female>
-        </declension>
       </translation>
       <translation id="1">
         <text>kabát</text>
@@ -6335,15 +6237,6 @@
     <entry id="280">
       <translation id="0">
         <text>Schlüssel</text>
-        <declension>
-          <male>
-            <plural>
-              <nominative>
-                <text>Schlüssel</text>
-              </nominative>
-            </plural>
-          </male>
-        </declension>
       </translation>
       <translation id="1">
         <text>kulcs</text>
@@ -6352,15 +6245,6 @@
     <entry id="281">
       <translation id="0">
         <text>Tasche</text>
-        <declension>
-          <female>
-            <plural>
-              <nominative>
-                <text>Taschen</text>
-              </nominative>
-            </plural>
-          </female>
-        </declension>
       </translation>
       <translation id="1">
         <text>táska</text>
@@ -6369,15 +6253,14 @@
     <entry id="282">
       <translation id="0">
         <text>Rock</text>
-        <declension>
-          <male>
-            <plural>
-              <nominative>
-                <text>Röcke</text>
-              </nominative>
-            </plural>
-          </male>
-        </declension>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-11-07T22:45:30</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>szoknya</text>
@@ -6403,15 +6286,6 @@
     <entry id="284">
       <translation id="0">
         <text>Stadt</text>
-        <declension>
-          <female>
-            <plural>
-              <nominative>
-                <text>Städte</text>
-              </nominative>
-            </plural>
-          </female>
-        </declension>
       </translation>
       <translation id="1">
         <text>város</text>
@@ -6420,15 +6294,14 @@
     <entry id="285">
       <translation id="0">
         <text>Stimme</text>
-        <declension>
-          <female>
-            <plural>
-              <nominative>
-                <text>Stimmen</text>
-              </nominative>
-            </plural>
-          </female>
-        </declension>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-11-07T22:50:57</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>hang</text>
@@ -6437,15 +6310,6 @@
     <entry id="286">
       <translation id="0">
         <text>Hund</text>
-        <declension>
-          <male>
-            <plural>
-              <nominative>
-                <text>Hunde</text>
-              </nominative>
-            </plural>
-          </male>
-        </declension>
       </translation>
       <translation id="1">
         <text>kutya</text>
@@ -6454,15 +6318,6 @@
     <entry id="287">
       <translation id="0">
         <text>Kindergarten</text>
-        <declension>
-          <male>
-            <plural>
-              <nominative>
-                <text>Kindergärten</text>
-              </nominative>
-            </plural>
-          </male>
-        </declension>
       </translation>
       <translation id="1">
         <text>óvoda</text>
@@ -6471,15 +6326,6 @@
     <entry id="288">
       <translation id="0">
         <text>E-Mail</text>
-        <declension>
-          <female>
-            <plural>
-              <nominative>
-                <text>E-Mails</text>
-              </nominative>
-            </plural>
-          </female>
-        </declension>
       </translation>
       <translation id="1">
         <text>e-mail</text>
@@ -6488,15 +6334,6 @@
     <entry id="289">
       <translation id="0">
         <text>Foto</text>
-        <declension>
-          <neutral>
-            <plural>
-              <nominative>
-                <text>Fotos</text>
-              </nominative>
-            </plural>
-          </neutral>
-        </declension>
       </translation>
       <translation id="1">
         <text>fénykép</text>
@@ -6505,15 +6342,6 @@
     <entry id="290">
       <translation id="0">
         <text>Puppe</text>
-        <declension>
-          <female>
-            <plural>
-              <nominative>
-                <text>Puppen</text>
-              </nominative>
-            </plural>
-          </female>
-        </declension>
       </translation>
       <translation id="1">
         <text>játékbaba</text>
@@ -6522,15 +6350,6 @@
     <entry id="291">
       <translation id="0">
         <text>Postkarte</text>
-        <declension>
-          <female>
-            <plural>
-              <nominative>
-                <text>Postkarten</text>
-              </nominative>
-            </plural>
-          </female>
-        </declension>
       </translation>
       <translation id="1">
         <text>képeslap</text>
@@ -6539,15 +6358,6 @@
     <entry id="292">
       <translation id="0">
         <text>Geschichte</text>
-        <declension>
-          <female>
-            <plural>
-              <nominative>
-                <text>Geschichten</text>
-              </nominative>
-            </plural>
-          </female>
-        </declension>
       </translation>
       <translation id="1">
         <text>történet</text>
@@ -6556,15 +6366,6 @@
     <entry id="293">
       <translation id="0">
         <text>Nachbar</text>
-        <declension>
-          <male>
-            <plural>
-              <nominative>
-                <text>Nachbarn</text>
-              </nominative>
-            </plural>
-          </male>
-        </declension>
       </translation>
       <translation id="1">
         <text>szomszéd</text>
@@ -6573,15 +6374,6 @@
     <entry id="294">
       <translation id="0">
         <text>Nachbarin</text>
-        <declension>
-          <female>
-            <plural>
-              <nominative>
-                <text>Nachbarinnen</text>
-              </nominative>
-            </plural>
-          </female>
-        </declension>
       </translation>
       <translation id="1">
         <text>szomszédnő</text>
@@ -6590,15 +6382,14 @@
     <entry id="295">
       <translation id="0">
         <text>Kollege</text>
-        <declension>
-          <male>
-            <plural>
-              <nominative>
-                <text>Kollegen</text>
-              </nominative>
-            </plural>
-          </male>
-        </declension>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-11-07T22:46:47</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>kolléga</text>
@@ -6607,15 +6398,14 @@
     <entry id="296">
       <translation id="0">
         <text>Kollegin</text>
-        <declension>
-          <female>
-            <plural>
-              <nominative>
-                <text>Kolleginnen</text>
-              </nominative>
-            </plural>
-          </female>
-        </declension>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-11-07T22:44:55</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>kolléga nő</text>
@@ -6624,15 +6414,6 @@
     <entry id="297">
       <translation id="0">
         <text>Halskette</text>
-        <declension>
-          <female>
-            <plural>
-              <nominative>
-                <text>Halsketten</text>
-              </nominative>
-            </plural>
-          </female>
-        </declension>
       </translation>
       <translation id="1">
         <text>nyaklánc</text>
@@ -6641,15 +6422,6 @@
     <entry id="298">
       <translation id="0">
         <text>Fahrrad</text>
-        <declension>
-          <neutral>
-            <plural>
-              <nominative>
-                <text>Fahrräder</text>
-              </nominative>
-            </plural>
-          </neutral>
-        </declension>
       </translation>
       <translation id="1">
         <text>kerékpár</text>
@@ -6658,15 +6430,6 @@
     <entry id="299">
       <translation id="0">
         <text>Brief</text>
-        <declension>
-          <male>
-            <plural>
-              <nominative>
-                <text>Briefe</text>
-              </nominative>
-            </plural>
-          </male>
-        </declension>
       </translation>
       <translation id="1">
         <text>levél</text>
@@ -6675,15 +6438,6 @@
     <entry id="300">
       <translation id="0">
         <text>Ring</text>
-        <declension>
-          <male>
-            <plural>
-              <nominative>
-                <text>Ringe</text>
-              </nominative>
-            </plural>
-          </male>
-        </declension>
       </translation>
       <translation id="1">
         <text>gyűrű</text>
@@ -6692,15 +6446,6 @@
     <entry id="301">
       <translation id="0">
         <text>Problem</text>
-        <declension>
-          <neutral>
-            <plural>
-              <nominative>
-                <text>Probleme</text>
-              </nominative>
-            </plural>
-          </neutral>
-        </declension>
       </translation>
       <translation id="1">
         <text>probléma</text>
@@ -6709,15 +6454,14 @@
     <entry id="302">
       <translation id="0">
         <text>Paket</text>
-        <declension>
-          <neutral>
-            <plural>
-              <nominative>
-                <text>Pakete</text>
-              </nominative>
-            </plural>
-          </neutral>
-        </declension>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-11-07T22:53:32</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>csomag</text>
@@ -6734,6 +6478,14 @@
     <entry id="304">
       <translation id="0">
         <text>kosten</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2025-11-07T22:53:37</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>kerül valamibe</text>
@@ -6758,6 +6510,14 @@
     <entry id="307">
       <translation id="0">
         <text>tragen</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2025-11-07T22:49:50</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>viselni</text>
@@ -6846,6 +6606,14 @@
     <entry id="318">
       <translation id="0">
         <text>schenken</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2025-11-07T22:54:00</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>ajándékozni</text>
@@ -6878,6 +6646,14 @@
     <entry id="322">
       <translation id="0">
         <text>erzählen</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-11-07T22:45:56</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>mesélni</text>
@@ -6894,6 +6670,14 @@
     <entry id="324">
       <translation id="0">
         <text>leihen</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>4</errorcount>
+          <date>2025-11-07T22:53:00</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>kölcsönadni</text>
@@ -6990,6 +6774,14 @@
     <entry id="336">
       <translation id="0">
         <text>kaputt sein</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-11-07T22:43:34</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>tönkre van menve</text>
@@ -6998,9 +6790,337 @@
     <entry id="337">
       <translation id="0">
         <text>Der Drucker ist kaputt.</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-11-07T22:50:22</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>A nyomtató elromlott/rossz.</text>
+      </translation>
+    </entry>
+    <entry id="338">
+      <translation id="0">
+        <text>Bildschirme</text>
+      </translation>
+      <translation id="1">
+        <text>képernyők</text>
+      </translation>
+    </entry>
+    <entry id="339">
+      <translation id="0">
+        <text>Briefe</text>
+      </translation>
+      <translation id="1">
+        <text>levelek</text>
+      </translation>
+    </entry>
+    <entry id="340">
+      <translation id="0">
+        <text>Büroschubladen</text>
+      </translation>
+      <translation id="1">
+        <text>irodai fiókok</text>
+      </translation>
+    </entry>
+    <entry id="341">
+      <translation id="0">
+        <text>Bürostühle</text>
+      </translation>
+      <translation id="1">
+        <text>irodai székek</text>
+      </translation>
+    </entry>
+    <entry id="342">
+      <translation id="0">
+        <text>Computer</text>
+      </translation>
+      <translation id="1">
+        <text>számítógépek</text>
+      </translation>
+    </entry>
+    <entry id="343">
+      <translation id="0">
+        <text>Drucker</text>
+      </translation>
+      <translation id="1">
+        <text>nyomtatók</text>
+      </translation>
+    </entry>
+    <entry id="344">
+      <translation id="0">
+        <text>E-Mails</text>
+      </translation>
+      <translation id="1">
+        <text>e-mailek</text>
+      </translation>
+    </entry>
+    <entry id="345">
+      <translation id="0">
+        <text>Fahrräder</text>
+      </translation>
+      <translation id="1">
+        <text>kerékpárok</text>
+      </translation>
+    </entry>
+    <entry id="346">
+      <translation id="0">
+        <text>Fotos</text>
+      </translation>
+      <translation id="1">
+        <text>fényképek</text>
+      </translation>
+    </entry>
+    <entry id="347">
+      <translation id="0">
+        <text>Geräte</text>
+      </translation>
+      <translation id="1">
+        <text>eszkőzők</text>
+      </translation>
+    </entry>
+    <entry id="348">
+      <translation id="0">
+        <text>Geschichten</text>
+      </translation>
+      <translation id="1">
+        <text>történetek</text>
+      </translation>
+    </entry>
+    <entry id="349">
+      <translation id="0">
+        <text>Halsketten</text>
+      </translation>
+      <translation id="1">
+        <text>nyakláncok</text>
+      </translation>
+    </entry>
+    <entry id="350">
+      <translation id="0">
+        <text>Handys</text>
+      </translation>
+      <translation id="1">
+        <text>mobiltelefonok</text>
+      </translation>
+    </entry>
+    <entry id="351">
+      <translation id="0">
+        <text>Hunde</text>
+      </translation>
+      <translation id="1">
+        <text>kutyák</text>
+      </translation>
+    </entry>
+    <entry id="352">
+      <translation id="0">
+        <text>Jacken</text>
+      </translation>
+      <translation id="1">
+        <text>kabátok</text>
+      </translation>
+    </entry>
+    <entry id="353">
+      <translation id="0">
+        <text>Kaffeemaschinen</text>
+      </translation>
+      <translation id="1">
+        <text>kávéfőzők</text>
+      </translation>
+    </entry>
+    <entry id="354">
+      <translation id="0">
+        <text>Kindergärten</text>
+      </translation>
+      <translation id="1">
+        <text>óvodák</text>
+      </translation>
+    </entry>
+    <entry id="355">
+      <translation id="0">
+        <text>Kollegen</text>
+      </translation>
+      <translation id="1">
+        <text>kollégák</text>
+      </translation>
+    </entry>
+    <entry id="356">
+      <translation id="0">
+        <text>Kolleginnen</text>
+      </translation>
+      <translation id="1">
+        <text>kolléga nők</text>
+      </translation>
+    </entry>
+    <entry id="357">
+      <translation id="0">
+        <text>Lampen</text>
+      </translation>
+      <translation id="1">
+        <text>lámpák</text>
+      </translation>
+    </entry>
+    <entry id="358">
+      <translation id="0">
+        <text>Laptops</text>
+      </translation>
+      <translation id="1">
+        <text>laptopok</text>
+      </translation>
+    </entry>
+    <entry id="359">
+      <translation id="0">
+        <text>Lieblingslieder</text>
+      </translation>
+      <translation id="1">
+        <text>kedvenc dalok</text>
+      </translation>
+    </entry>
+    <entry id="360">
+      <translation id="0">
+        <text>Mülleimer</text>
+      </translation>
+      <translation id="1">
+        <text>szemetesek</text>
+      </translation>
+    </entry>
+    <entry id="361">
+      <translation id="0">
+        <text>Nachbarn</text>
+      </translation>
+      <translation id="1">
+        <text>szomszédok</text>
+      </translation>
+    </entry>
+    <entry id="362">
+      <translation id="0">
+        <text>Nachbarinnen</text>
+      </translation>
+      <translation id="1">
+        <text>szomszéd nők</text>
+      </translation>
+    </entry>
+    <entry id="363">
+      <translation id="0">
+        <text>Pakete</text>
+      </translation>
+      <translation id="1">
+        <text>csomagok</text>
+      </translation>
+    </entry>
+    <entry id="364">
+      <translation id="0">
+        <text>Papierkörbe</text>
+      </translation>
+      <translation id="1">
+        <text>papírkosarak</text>
+      </translation>
+    </entry>
+    <entry id="365">
+      <translation id="0">
+        <text>Postkarten</text>
+      </translation>
+      <translation id="1">
+        <text>képeslapok</text>
+      </translation>
+    </entry>
+    <entry id="366">
+      <translation id="0">
+        <text>Probleme</text>
+      </translation>
+      <translation id="1">
+        <text>problémák</text>
+      </translation>
+    </entry>
+    <entry id="367">
+      <translation id="0">
+        <text>Puppen</text>
+      </translation>
+      <translation id="1">
+        <text>játékbabák</text>
+      </translation>
+    </entry>
+    <entry id="368">
+      <translation id="0">
+        <text>Regale</text>
+      </translation>
+      <translation id="1">
+        <text>polcok</text>
+      </translation>
+    </entry>
+    <entry id="369">
+      <translation id="0">
+        <text>Ringe</text>
+      </translation>
+      <translation id="1">
+        <text>gyűrűk</text>
+      </translation>
+    </entry>
+    <entry id="370">
+      <translation id="0">
+        <text>Röcke</text>
+      </translation>
+      <translation id="1">
+        <text>szoknyák</text>
+      </translation>
+    </entry>
+    <entry id="371">
+      <translation id="0">
+        <text>Scanner</text>
+      </translation>
+      <translation id="1">
+        <text>szkennerek</text>
+      </translation>
+    </entry>
+    <entry id="372">
+      <translation id="0">
+        <text>Schlüssel</text>
+      </translation>
+      <translation id="1">
+        <text>kulcsok</text>
+      </translation>
+    </entry>
+    <entry id="373">
+      <translation id="0">
+        <text>Städte</text>
+      </translation>
+      <translation id="1">
+        <text>városok</text>
+      </translation>
+    </entry>
+    <entry id="374">
+      <translation id="0">
+        <text>Stimmen</text>
+      </translation>
+      <translation id="1">
+        <text>hangok</text>
+      </translation>
+    </entry>
+    <entry id="375">
+      <translation id="0">
+        <text>Taschen</text>
+      </translation>
+      <translation id="1">
+        <text>táskák</text>
+      </translation>
+    </entry>
+    <entry id="376">
+      <translation id="0">
+        <text>Taschenrechner</text>
+      </translation>
+      <translation id="1">
+        <text>számológépek</text>
+      </translation>
+    </entry>
+    <entry id="377">
+      <translation id="0">
+        <text>Tische</text>
+      </translation>
+      <translation id="1">
+        <text>asztalok</text>
       </translation>
     </entry>
   </entries>
@@ -7166,7 +7286,6 @@
     </container>
     <container>
       <name>Szavak 2</name>
-      <inpractice>true</inpractice>
       <entry id="150"/>
       <entry id="151"/>
       <entry id="152"/>
@@ -7256,7 +7375,6 @@
     </container>
     <container>
       <name>Lesson 13</name>
-      <inpractice>true</inpractice>
       <entry id="233"/>
       <entry id="234"/>
       <entry id="235"/>
@@ -7366,6 +7484,46 @@
       <entry id="335"/>
       <entry id="336"/>
       <entry id="337"/>
+      <entry id="338"/>
+      <entry id="339"/>
+      <entry id="340"/>
+      <entry id="341"/>
+      <entry id="342"/>
+      <entry id="343"/>
+      <entry id="344"/>
+      <entry id="345"/>
+      <entry id="346"/>
+      <entry id="347"/>
+      <entry id="348"/>
+      <entry id="349"/>
+      <entry id="350"/>
+      <entry id="351"/>
+      <entry id="352"/>
+      <entry id="353"/>
+      <entry id="354"/>
+      <entry id="355"/>
+      <entry id="356"/>
+      <entry id="357"/>
+      <entry id="358"/>
+      <entry id="359"/>
+      <entry id="360"/>
+      <entry id="361"/>
+      <entry id="362"/>
+      <entry id="363"/>
+      <entry id="364"/>
+      <entry id="365"/>
+      <entry id="366"/>
+      <entry id="367"/>
+      <entry id="368"/>
+      <entry id="369"/>
+      <entry id="370"/>
+      <entry id="371"/>
+      <entry id="372"/>
+      <entry id="373"/>
+      <entry id="374"/>
+      <entry id="375"/>
+      <entry id="376"/>
+      <entry id="377"/>
     </container>
   </lessons>
   <wordtypes>
@@ -7610,6 +7768,9 @@
           <translation id="0"/>
         </entry>
         <entry id="300">
+          <translation id="0"/>
+        </entry>
+        <entry id="261">
           <translation id="0"/>
         </entry>
       </container>
