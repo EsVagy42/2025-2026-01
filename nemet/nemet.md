@@ -823,3 +823,28 @@ In den Büchern sind viele Satze.
 | Nom | ein Dr. | eine Lampe | ein G. | keine Bücher |
 | Akk | einen Dr. | eine Lampe | ein G. | keine Bücher |
 | Dat | einem Dr. | einer Lampe | einem G. | keinen Büchern |
+
+# 14. óra
+
+| névelő | ez |
+| --- | --- |
+| der | dieser |
+| die | diese |
+| das | dieses |
+
+## Számok
+
+Hundert/Einhundert
+: száz
+
+Tausend
+: ezer
+
+### Feladat
+
+| szám | német |
+| --- | --- |
+| 859 | achthundertneunundfünfzig |
+| 2356 | zweitausanddreihundertsechtuunddreisig |
+| 51346 | einundfünfzigtausanddreihundertsechtundvierzig |
+| 346497 | dreihundertsechtsundvierzigtausandvierhundertsiebenundneunzig |
