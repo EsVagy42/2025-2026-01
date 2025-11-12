@@ -848,3 +848,52 @@ Tausend
 | 2356 | zweitausanddreihundertsechtuunddreisig |
 | 51346 | einundfünfzigtausanddreihundertsechtundvierzig |
 | 346497 | dreihundertsechtsundvierzigtausandvierhundertsiebenundneunzig |
+
+# 15. óra
+
+Nach dem Preis fragen.
+: Megkérdezni az árát.
+
+r Preis
+: ár
+
+Paar
+: pár
+
+| ez | der | die | das |
+| --- | --- | --- | --- |
+| dieser | diese | dieses |
+| diesen | diese | dieses |
+
+veraltet
+: elavult
+
+## Melléknév ragozás
+
+### Gyenge ragozás
+
+| eset | der | die | das | die |
+| --- | --- | --- | --- | --- |
+| N | der schöne Hund | die schöne Katze | das schöne Kind | die schöne**n** Schuhe |
+| A | *den* schöne**n** Hund | die schöne Katze | das schöne Kind | die schöne**n** Schuhe |
+| D | *dem* schöne**n** Hund | *der* schöne**n** Katze | *dem* schöne**n** Kind | den schöne**n** Schuhe**n** |
+
+**`-e`-t mindenképp kap a melléknév valamiért**
+
+Akkor használjuk, amikor ismert/konkrét az alany.
+
+### Erős
+
+| eset | der | die | das | die |
+| --- | --- | --- | --- | --- |
+| N | schöner Hund | schöne Katze | schönes Kind | schöne Schuhe |
+| A | schöne**n** Hund | schöne Katze | schönes Kind | schöne Schuhe |
+| D | schöne**m** Hund | schöne**r** Katze | schöne**m** Kind | schöne**n** Schuhe**n** |
+
+### Vegyes ragozás
+
+| eset | der | die | das | die |
+| --- | --- | --- | --- | --- |
+| N | ein schöner Hund | eine schöne Katze | ein schönes Kind | keine schöne**n** Schuhe |
+| A | ein**en** schönen Hund | eine schöne Katze | ein schönes Kind | keine schöne**n** Schuhe |
+| D | ein**em** schönen Hund | eine**r** schöne**n** Katze | ein**em** schöne**n** Kind | keine**n** schöne**n** Schuhe**n** |
