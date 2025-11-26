@@ -897,3 +897,16 @@ Akkor használjuk, amikor ismert/konkrét az alany.
 | N | ein schöner Hund | eine schöne Katze | ein schönes Kind | keine schöne**n** Schuhe |
 | A | ein**en** schönen Hund | eine schöne Katze | ein schönes Kind | keine schöne**n** Schuhe |
 | D | ein**em** schönen Hund | eine**r** schöne**n** Katze | ein**em** schöne**n** Kind | keine**n** schöne**n** Schuhe**n** |
+
+# 17. óra
+
+## Kann
+
+- Ich kann.
+- Du kannst.
+- Er/sie/es kann.
+- Wir können.
+- Ihr könnt.
+- Sie/Sie können.
+
+- Az ige a mondat végére kerül, mindig egy igét ragozunk.
