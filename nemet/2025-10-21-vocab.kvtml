@@ -6,7 +6,7 @@
     <title>Német gyakorlás</title>
     <author>EsVagy</author>
     <license>Public Domain</license>
-    <date>2025-11-12</date>
+    <date>2025-11-29</date>
     <category>Languages</category>
   </information>
   <identifiers>
@@ -8319,6 +8319,817 @@
         <text>asztalok</text>
       </translation>
     </entry>
+    <entry id="378">
+      <translation id="0">
+        <text>gut</text>
+      </translation>
+      <translation id="1">
+        <text>jó</text>
+      </translation>
+    </entry>
+    <entry id="379">
+      <translation id="0">
+        <text>neu</text>
+      </translation>
+      <translation id="1">
+        <text>új</text>
+      </translation>
+    </entry>
+    <entry id="380">
+      <translation id="0">
+        <text>groß</text>
+      </translation>
+      <translation id="1">
+        <text>nagy</text>
+      </translation>
+    </entry>
+    <entry id="381">
+      <translation id="0">
+        <text>klein</text>
+      </translation>
+      <translation id="1">
+        <text>kicsi</text>
+      </translation>
+    </entry>
+    <entry id="382">
+      <translation id="0">
+        <text>alt</text>
+      </translation>
+      <translation id="1">
+        <text>régi, öreg</text>
+      </translation>
+    </entry>
+    <entry id="383">
+      <translation id="0">
+        <text>jung</text>
+      </translation>
+      <translation id="1">
+        <text>fiatal</text>
+      </translation>
+    </entry>
+    <entry id="384">
+      <translation id="0">
+        <text>schön</text>
+      </translation>
+      <translation id="1">
+        <text>szép</text>
+      </translation>
+    </entry>
+    <entry id="385">
+      <translation id="0">
+        <text>schlecht</text>
+      </translation>
+      <translation id="1">
+        <text>rossz</text>
+      </translation>
+    </entry>
+    <entry id="386">
+      <translation id="0">
+        <text>wichtig</text>
+      </translation>
+      <translation id="1">
+        <text>fontos</text>
+      </translation>
+    </entry>
+    <entry id="387">
+      <translation id="0">
+        <text>lang</text>
+      </translation>
+      <translation id="1">
+        <text>hosszú</text>
+      </translation>
+    </entry>
+    <entry id="388">
+      <translation id="0">
+        <text>kurz</text>
+      </translation>
+      <translation id="1">
+        <text>rövid</text>
+      </translation>
+    </entry>
+    <entry id="389">
+      <translation id="0">
+        <text>stark</text>
+      </translation>
+      <translation id="1">
+        <text>erős</text>
+      </translation>
+    </entry>
+    <entry id="390">
+      <translation id="0">
+        <text>schwach</text>
+      </translation>
+      <translation id="1">
+        <text>gyenge</text>
+      </translation>
+    </entry>
+    <entry id="391">
+      <translation id="0">
+        <text>hoch</text>
+      </translation>
+      <translation id="1">
+        <text>magas</text>
+      </translation>
+    </entry>
+    <entry id="392">
+      <translation id="0">
+        <text>niedrig</text>
+      </translation>
+      <translation id="1">
+        <text>alacsony</text>
+      </translation>
+    </entry>
+    <entry id="393">
+      <translation id="0">
+        <text>teuer</text>
+      </translation>
+      <translation id="1">
+        <text>drága</text>
+      </translation>
+    </entry>
+    <entry id="394">
+      <translation id="0">
+        <text>billig</text>
+      </translation>
+      <translation id="1">
+        <text>olcsó</text>
+      </translation>
+    </entry>
+    <entry id="395">
+      <translation id="0">
+        <text>einfach</text>
+      </translation>
+      <translation id="1">
+        <text>egyszerű</text>
+      </translation>
+    </entry>
+    <entry id="396">
+      <translation id="0">
+        <text>leicht</text>
+      </translation>
+      <translation id="1">
+        <text>könnyű (súlyra vagy egyszerűségre)</text>
+      </translation>
+    </entry>
+    <entry id="397">
+      <translation id="0">
+        <text>schwierig</text>
+      </translation>
+      <translation id="1">
+        <text>nehéz (bonyolult)</text>
+      </translation>
+    </entry>
+    <entry id="398">
+      <translation id="0">
+        <text>schwer</text>
+      </translation>
+      <translation id="1">
+        <text>nehéz (súlyra)</text>
+      </translation>
+    </entry>
+    <entry id="399">
+      <translation id="0">
+        <text>schnell</text>
+      </translation>
+      <translation id="1">
+        <text>gyors</text>
+      </translation>
+    </entry>
+    <entry id="400">
+      <translation id="0">
+        <text>langsam</text>
+      </translation>
+      <translation id="1">
+        <text>lassú</text>
+      </translation>
+    </entry>
+    <entry id="401">
+      <translation id="0">
+        <text>kalt</text>
+      </translation>
+      <translation id="1">
+        <text>hideg</text>
+      </translation>
+    </entry>
+    <entry id="402">
+      <translation id="0">
+        <text>warm</text>
+      </translation>
+      <translation id="1">
+        <text>meleg</text>
+      </translation>
+    </entry>
+    <entry id="403">
+      <translation id="0">
+        <text>heiß</text>
+      </translation>
+      <translation id="1">
+        <text>forró</text>
+      </translation>
+    </entry>
+    <entry id="404">
+      <translation id="0">
+        <text>freundlich</text>
+      </translation>
+      <translation id="1">
+        <text>barátságos</text>
+      </translation>
+    </entry>
+    <entry id="405">
+      <translation id="0">
+        <text>nett</text>
+      </translation>
+      <translation id="1">
+        <text>kedves</text>
+      </translation>
+    </entry>
+    <entry id="406">
+      <translation id="0">
+        <text>glücklich</text>
+      </translation>
+      <translation id="1">
+        <text>boldog</text>
+      </translation>
+    </entry>
+    <entry id="407">
+      <translation id="0">
+        <text>traurig</text>
+      </translation>
+      <translation id="1">
+        <text>szomorú</text>
+      </translation>
+    </entry>
+    <entry id="408">
+      <translation id="0">
+        <text>müde</text>
+      </translation>
+      <translation id="1">
+        <text>fáradt</text>
+      </translation>
+    </entry>
+    <entry id="409">
+      <translation id="0">
+        <text>sauber</text>
+      </translation>
+      <translation id="1">
+        <text>tiszta</text>
+      </translation>
+    </entry>
+    <entry id="410">
+      <translation id="0">
+        <text>schmutzig</text>
+      </translation>
+      <translation id="1">
+        <text>piszkos</text>
+      </translation>
+    </entry>
+    <entry id="411">
+      <translation id="0">
+        <text>laut</text>
+      </translation>
+      <translation id="1">
+        <text>hangos</text>
+      </translation>
+    </entry>
+    <entry id="412">
+      <translation id="0">
+        <text>leise</text>
+      </translation>
+      <translation id="1">
+        <text>halk</text>
+      </translation>
+    </entry>
+    <entry id="413">
+      <translation id="0">
+        <text>interessant</text>
+      </translation>
+      <translation id="1">
+        <text>érdekes</text>
+      </translation>
+    </entry>
+    <entry id="414">
+      <translation id="0">
+        <text>langweilig</text>
+      </translation>
+      <translation id="1">
+        <text>unalmas</text>
+      </translation>
+    </entry>
+    <entry id="415">
+      <translation id="0">
+        <text>richtig</text>
+      </translation>
+      <translation id="1">
+        <text>helyes</text>
+      </translation>
+    </entry>
+    <entry id="416">
+      <translation id="0">
+        <text>falsch</text>
+      </translation>
+      <translation id="1">
+        <text>helytelen, hamis</text>
+      </translation>
+    </entry>
+    <entry id="417">
+      <translation id="0">
+        <text>frei</text>
+      </translation>
+      <translation id="1">
+        <text>szabad</text>
+      </translation>
+    </entry>
+    <entry id="418">
+      <translation id="0">
+        <text>beschäftigt</text>
+      </translation>
+      <translation id="1">
+        <text>elfoglalt</text>
+      </translation>
+    </entry>
+    <entry id="419">
+      <translation id="0">
+        <text>bekannt</text>
+      </translation>
+      <translation id="1">
+        <text>ismert</text>
+      </translation>
+    </entry>
+    <entry id="420">
+      <translation id="0">
+        <text>unbekannt</text>
+      </translation>
+      <translation id="1">
+        <text>ismeretlen</text>
+      </translation>
+    </entry>
+    <entry id="421">
+      <translation id="0">
+        <text>gefährlich</text>
+      </translation>
+      <translation id="1">
+        <text>veszélyes</text>
+      </translation>
+    </entry>
+    <entry id="422">
+      <translation id="0">
+        <text>sicher</text>
+      </translation>
+      <translation id="1">
+        <text>biztos, biztonságos</text>
+      </translation>
+    </entry>
+    <entry id="423">
+      <translation id="0">
+        <text>möglich</text>
+      </translation>
+      <translation id="1">
+        <text>lehetséges</text>
+      </translation>
+    </entry>
+    <entry id="424">
+      <translation id="0">
+        <text>unmöglich</text>
+      </translation>
+      <translation id="1">
+        <text>lehetetlen</text>
+      </translation>
+    </entry>
+    <entry id="425">
+      <translation id="0">
+        <text>zufrieden</text>
+      </translation>
+      <translation id="1">
+        <text>elégedett</text>
+      </translation>
+    </entry>
+    <entry id="426">
+      <translation id="0">
+        <text>hungrig</text>
+      </translation>
+      <translation id="1">
+        <text>éhes</text>
+      </translation>
+    </entry>
+    <entry id="427">
+      <translation id="0">
+        <text>durstig</text>
+      </translation>
+      <translation id="1">
+        <text>szomjas</text>
+      </translation>
+    </entry>
+    <entry id="428">
+      <translation id="0">
+        <text>die Antwort, -en</text>
+      </translation>
+      <translation id="1">
+        <text>válasz</text>
+      </translation>
+    </entry>
+    <entry id="429">
+      <translation id="0">
+        <text>die Idee, -n</text>
+      </translation>
+      <translation id="1">
+        <text>ötlet</text>
+      </translation>
+    </entry>
+    <entry id="430">
+      <translation id="0">
+        <text>das Problem, -e</text>
+      </translation>
+      <translation id="1">
+        <text>probléma</text>
+      </translation>
+    </entry>
+    <entry id="431">
+      <translation id="0">
+        <text>die Katze, -n</text>
+      </translation>
+      <translation id="1">
+        <text>macska</text>
+      </translation>
+    </entry>
+    <entry id="432">
+      <translation id="0">
+        <text>das Fahrrad, Fahrräder</text>
+      </translation>
+      <translation id="1">
+        <text>kerékpár, bicikli</text>
+      </translation>
+    </entry>
+    <entry id="433">
+      <translation id="0">
+        <text>das Mädchen, -</text>
+      </translation>
+      <translation id="1">
+        <text>lány</text>
+      </translation>
+    </entry>
+    <entry id="434">
+      <translation id="0">
+        <text>die Farbe, -n</text>
+      </translation>
+      <translation id="1">
+        <text>szín</text>
+      </translation>
+    </entry>
+    <entry id="435">
+      <translation id="0">
+        <text>die Note, -n</text>
+      </translation>
+      <translation id="1">
+        <text>jegy (iskolai), hangjegy</text>
+      </translation>
+    </entry>
+    <entry id="436">
+      <translation id="0">
+        <text>die Information, -en</text>
+      </translation>
+      <translation id="1">
+        <text>információ</text>
+      </translation>
+    </entry>
+    <entry id="437">
+      <translation id="0">
+        <text>die Rede, -n</text>
+      </translation>
+      <translation id="1">
+        <text>beszéd</text>
+      </translation>
+    </entry>
+    <entry id="438">
+      <translation id="0">
+        <text>die Hose, -n</text>
+      </translation>
+      <translation id="1">
+        <text>nadrág</text>
+      </translation>
+    </entry>
+    <entry id="439">
+      <translation id="0">
+        <text>der Regen, -</text>
+      </translation>
+      <translation id="1">
+        <text>eső</text>
+      </translation>
+    </entry>
+    <entry id="440">
+      <translation id="0">
+        <text>die Hand, Hände</text>
+      </translation>
+      <translation id="1">
+        <text>kéz</text>
+      </translation>
+    </entry>
+    <entry id="441">
+      <translation id="0">
+        <text>der Berg, -e</text>
+      </translation>
+      <translation id="1">
+        <text>hegy</text>
+      </translation>
+    </entry>
+    <entry id="442">
+      <translation id="0">
+        <text>der Baum, Bäume</text>
+      </translation>
+      <translation id="1">
+        <text>fa</text>
+      </translation>
+    </entry>
+    <entry id="443">
+      <translation id="0">
+        <text>der Urlaub, -e</text>
+      </translation>
+      <translation id="1">
+        <text>szabadság, nyaralás</text>
+      </translation>
+    </entry>
+    <entry id="444">
+      <translation id="0">
+        <text>die Ware, -n</text>
+      </translation>
+      <translation id="1">
+        <text>áru</text>
+      </translation>
+    </entry>
+    <entry id="445">
+      <translation id="0">
+        <text>die Aufgabe, -n</text>
+      </translation>
+      <translation id="1">
+        <text>feladat</text>
+      </translation>
+    </entry>
+    <entry id="446">
+      <translation id="0">
+        <text>die Klassenarbeit, -en</text>
+      </translation>
+      <translation id="1">
+        <text>dolgozat</text>
+      </translation>
+    </entry>
+    <entry id="447">
+      <translation id="0">
+        <text>der Wagen, -</text>
+      </translation>
+      <translation id="1">
+        <text>kocsi, autó</text>
+      </translation>
+    </entry>
+    <entry id="448">
+      <translation id="0">
+        <text>das Wachstum</text>
+      </translation>
+      <translation id="1">
+        <text>növekedés</text>
+      </translation>
+    </entry>
+    <entry id="449">
+      <translation id="0">
+        <text>das Wetter, -</text>
+      </translation>
+      <translation id="1">
+        <text>időjárás</text>
+      </translation>
+    </entry>
+    <entry id="450">
+      <translation id="0">
+        <text>der Pullover, -</text>
+      </translation>
+      <translation id="1">
+        <text>pulóver</text>
+      </translation>
+    </entry>
+    <entry id="451">
+      <translation id="0">
+        <text>die Schokolade, -n</text>
+      </translation>
+      <translation id="1">
+        <text>csokoládé</text>
+      </translation>
+    </entry>
+    <entry id="452">
+      <translation id="0">
+        <text>die Begrüßung, -en</text>
+      </translation>
+      <translation id="1">
+        <text>köszöntés, üdvözlés</text>
+      </translation>
+    </entry>
+    <entry id="453">
+      <translation id="0">
+        <text>der Freund, -e</text>
+      </translation>
+      <translation id="1">
+        <text>barát</text>
+      </translation>
+    </entry>
+    <entry id="454">
+      <translation id="0">
+        <text>das Leben, -</text>
+      </translation>
+      <translation id="1">
+        <text>élet</text>
+      </translation>
+    </entry>
+    <entry id="455">
+      <translation id="0">
+        <text>die Geschichte, -n</text>
+      </translation>
+      <translation id="1">
+        <text>történet, történelem</text>
+      </translation>
+    </entry>
+    <entry id="456">
+      <translation id="0">
+        <text>der Schuh, -e</text>
+      </translation>
+      <translation id="1">
+        <text>cipő</text>
+      </translation>
+    </entry>
+    <entry id="457">
+      <translation id="0">
+        <text>das Zimmer, -</text>
+      </translation>
+      <translation id="1">
+        <text>szoba</text>
+      </translation>
+    </entry>
+    <entry id="458">
+      <translation id="0">
+        <text>die Jeans</text>
+      </translation>
+      <translation id="1">
+        <text>farmer</text>
+      </translation>
+    </entry>
+    <entry id="459">
+      <translation id="0">
+        <text>die Stimme, -n</text>
+      </translation>
+      <translation id="1">
+        <text>hang (emberi)</text>
+      </translation>
+    </entry>
+    <entry id="460">
+      <translation id="0">
+        <text>die Musik, -en</text>
+      </translation>
+      <translation id="1">
+        <text>zene</text>
+      </translation>
+    </entry>
+    <entry id="461">
+      <translation id="0">
+        <text>der Gedanke, -n</text>
+      </translation>
+      <translation id="1">
+        <text>gondolat</text>
+      </translation>
+    </entry>
+    <entry id="462">
+      <translation id="0">
+        <text>der Text, -e</text>
+      </translation>
+      <translation id="1">
+        <text>szöveg</text>
+      </translation>
+    </entry>
+    <entry id="463">
+      <translation id="0">
+        <text>die Entscheidung, -en</text>
+      </translation>
+      <translation id="1">
+        <text>döntés</text>
+      </translation>
+    </entry>
+    <entry id="464">
+      <translation id="0">
+        <text>die Lösung, -en</text>
+      </translation>
+      <translation id="1">
+        <text>megoldás</text>
+      </translation>
+    </entry>
+    <entry id="465">
+      <translation id="0">
+        <text>der Platz, Plätze</text>
+      </translation>
+      <translation id="1">
+        <text>hely, tér</text>
+      </translation>
+    </entry>
+    <entry id="466">
+      <translation id="0">
+        <text>der Mensch, -en</text>
+      </translation>
+      <translation id="1">
+        <text>ember</text>
+      </translation>
+    </entry>
+    <entry id="467">
+      <translation id="0">
+        <text>der Schauspieler, -</text>
+      </translation>
+      <translation id="1">
+        <text>színész</text>
+      </translation>
+    </entry>
+    <entry id="468">
+      <translation id="0">
+        <text>der Ort, -e</text>
+      </translation>
+      <translation id="1">
+        <text>hely, település</text>
+      </translation>
+    </entry>
+    <entry id="469">
+      <translation id="0">
+        <text>die Situation, -en</text>
+      </translation>
+      <translation id="1">
+        <text>helyzet</text>
+      </translation>
+    </entry>
+    <entry id="470">
+      <translation id="0">
+        <text>der Erfolg, -e</text>
+      </translation>
+      <translation id="1">
+        <text>siker</text>
+      </translation>
+    </entry>
+    <entry id="471">
+      <translation id="0">
+        <text>die Folge, -n</text>
+      </translation>
+      <translation id="1">
+        <text>következmény</text>
+      </translation>
+      <translation id="2">
+        <text>epizód (sorozatban)</text>
+      </translation>
+    </entry>
+    <entry id="472">
+      <translation id="0">
+        <text>die Prognose, -n</text>
+      </translation>
+      <translation id="1">
+        <text>előrejelzés</text>
+      </translation>
+    </entry>
+    <entry id="473">
+      <translation id="0">
+        <text>die Mehrheit, -en</text>
+      </translation>
+      <translation id="1">
+        <text>többség</text>
+      </translation>
+    </entry>
+    <entry id="474">
+      <translation id="0">
+        <text>die Minderheit, -en</text>
+      </translation>
+      <translation id="1">
+        <text>kisebbség</text>
+      </translation>
+    </entry>
+    <entry id="475">
+      <translation id="0">
+        <text>der Gast, Gäste</text>
+      </translation>
+      <translation id="1">
+        <text>vendég</text>
+      </translation>
+    </entry>
+    <entry id="476">
+      <translation id="0">
+        <text>das Kind, -er</text>
+      </translation>
+      <translation id="1">
+        <text>gyerek</text>
+      </translation>
+    </entry>
+    <entry id="477">
+      <translation id="0">
+        <text>der Fehler, -</text>
+      </translation>
+      <translation id="1">
+        <text>hiba</text>
+      </translation>
+    </entry>
+    <entry id="478">
+      <translation id="0">
+        <text>die Verletzung, -en</text>
+      </translation>
+      <translation id="1">
+        <text>sérülés</text>
+      </translation>
+    </entry>
   </entries>
   <lessons>
     <container>
@@ -8720,6 +9531,111 @@
       <entry id="375"/>
       <entry id="376"/>
       <entry id="377"/>
+    </container>
+    <container>
+      <name>Szavak 4</name>
+      <inpractice>true</inpractice>
+      <entry id="378"/>
+      <entry id="379"/>
+      <entry id="380"/>
+      <entry id="381"/>
+      <entry id="382"/>
+      <entry id="383"/>
+      <entry id="384"/>
+      <entry id="385"/>
+      <entry id="386"/>
+      <entry id="387"/>
+      <entry id="388"/>
+      <entry id="389"/>
+      <entry id="390"/>
+      <entry id="391"/>
+      <entry id="392"/>
+      <entry id="393"/>
+      <entry id="394"/>
+      <entry id="395"/>
+      <entry id="396"/>
+      <entry id="397"/>
+      <entry id="398"/>
+      <entry id="399"/>
+      <entry id="400"/>
+      <entry id="401"/>
+      <entry id="402"/>
+      <entry id="403"/>
+      <entry id="404"/>
+      <entry id="405"/>
+      <entry id="406"/>
+      <entry id="407"/>
+      <entry id="408"/>
+      <entry id="409"/>
+      <entry id="410"/>
+      <entry id="411"/>
+      <entry id="412"/>
+      <entry id="413"/>
+      <entry id="414"/>
+      <entry id="415"/>
+      <entry id="416"/>
+      <entry id="417"/>
+      <entry id="418"/>
+      <entry id="419"/>
+      <entry id="420"/>
+      <entry id="421"/>
+      <entry id="422"/>
+      <entry id="423"/>
+      <entry id="424"/>
+      <entry id="425"/>
+      <entry id="426"/>
+      <entry id="427"/>
+      <entry id="428"/>
+      <entry id="429"/>
+      <entry id="430"/>
+      <entry id="431"/>
+      <entry id="432"/>
+      <entry id="433"/>
+      <entry id="434"/>
+      <entry id="435"/>
+      <entry id="436"/>
+      <entry id="437"/>
+      <entry id="438"/>
+      <entry id="439"/>
+      <entry id="440"/>
+      <entry id="441"/>
+      <entry id="442"/>
+      <entry id="443"/>
+      <entry id="444"/>
+      <entry id="445"/>
+      <entry id="446"/>
+      <entry id="447"/>
+      <entry id="448"/>
+      <entry id="449"/>
+      <entry id="450"/>
+      <entry id="451"/>
+      <entry id="452"/>
+      <entry id="453"/>
+      <entry id="454"/>
+      <entry id="455"/>
+      <entry id="456"/>
+      <entry id="457"/>
+      <entry id="458"/>
+      <entry id="459"/>
+      <entry id="460"/>
+      <entry id="461"/>
+      <entry id="462"/>
+      <entry id="463"/>
+      <entry id="464"/>
+      <entry id="465"/>
+      <entry id="466"/>
+      <entry id="467"/>
+      <entry id="468"/>
+      <entry id="469"/>
+      <entry id="470"/>
+      <entry id="471"/>
+      <entry id="472"/>
+      <entry id="473"/>
+      <entry id="474"/>
+      <entry id="475"/>
+      <entry id="476"/>
+      <entry id="477"/>
+      <entry id="478"/>
     </container>
   </lessons>
   <wordtypes>
