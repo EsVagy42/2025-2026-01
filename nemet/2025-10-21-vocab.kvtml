@@ -6,7 +6,7 @@
     <title>Német gyakorlás</title>
     <author>EsVagy</author>
     <license>Public Domain</license>
-    <date>2025-11-29</date>
+    <date>2025-11-30</date>
     <category>Languages</category>
   </information>
   <identifiers>
@@ -8410,6 +8410,14 @@
     <entry id="389">
       <translation id="0">
         <text>stark</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>3</errorcount>
+          <date>2025-11-30T19:05:44</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>erős</text>
@@ -8418,6 +8426,14 @@
     <entry id="390">
       <translation id="0">
         <text>schwach</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>3</errorcount>
+          <date>2025-11-30T19:08:10</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>gyenge</text>
@@ -8434,6 +8450,14 @@
     <entry id="392">
       <translation id="0">
         <text>niedrig</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>8</count>
+          <errorcount>6</errorcount>
+          <date>2025-11-30T19:16:10</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>alacsony</text>
@@ -8458,6 +8482,14 @@
     <entry id="395">
       <translation id="0">
         <text>einfach</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-11-30T19:10:25</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>egyszerű</text>
@@ -8490,6 +8522,14 @@
     <entry id="399">
       <translation id="0">
         <text>schnell</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2025-11-30T19:09:13</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>gyors</text>
@@ -8506,6 +8546,14 @@
     <entry id="401">
       <translation id="0">
         <text>kalt</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-11-30T19:05:37</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>hideg</text>
@@ -8514,6 +8562,14 @@
     <entry id="402">
       <translation id="0">
         <text>warm</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2025-11-30T19:01:42</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>meleg</text>
@@ -8530,6 +8586,14 @@
     <entry id="404">
       <translation id="0">
         <text>freundlich</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-11-30T18:59:15</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>barátságos</text>
@@ -8562,6 +8626,14 @@
     <entry id="408">
       <translation id="0">
         <text>müde</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-11-30T19:02:45</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>fáradt</text>
@@ -8578,6 +8650,14 @@
     <entry id="410">
       <translation id="0">
         <text>schmutzig</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>6</count>
+          <errorcount>4</errorcount>
+          <date>2025-11-30T19:09:10</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>piszkos</text>
@@ -8602,6 +8682,14 @@
     <entry id="413">
       <translation id="0">
         <text>interessant</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-11-30T18:56:19</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>érdekes</text>
@@ -8610,6 +8698,14 @@
     <entry id="414">
       <translation id="0">
         <text>langweilig</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-11-30T19:01:38</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>unalmas</text>
@@ -8618,6 +8714,14 @@
     <entry id="415">
       <translation id="0">
         <text>richtig</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-11-30T18:59:57</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>helyes</text>
@@ -8626,6 +8730,14 @@
     <entry id="416">
       <translation id="0">
         <text>falsch</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-11-30T19:05:34</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>helytelen, hamis</text>
@@ -8650,6 +8762,14 @@
     <entry id="419">
       <translation id="0">
         <text>bekannt</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-11-30T19:09:28</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>ismert</text>
@@ -8658,6 +8778,14 @@
     <entry id="420">
       <translation id="0">
         <text>unbekannt</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-11-30T19:02:33</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>ismeretlen</text>
@@ -8666,6 +8794,14 @@
     <entry id="421">
       <translation id="0">
         <text>gefährlich</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>6</count>
+          <errorcount>5</errorcount>
+          <date>2025-11-30T19:16:28</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>veszélyes</text>
@@ -8674,6 +8810,14 @@
     <entry id="422">
       <translation id="0">
         <text>sicher</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>4</errorcount>
+          <date>2025-11-30T19:16:01</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>biztos, biztonságos</text>
@@ -8690,6 +8834,14 @@
     <entry id="424">
       <translation id="0">
         <text>unmöglich</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-11-30T19:05:41</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>lehetetlen</text>
@@ -8722,6 +8874,14 @@
     <entry id="428">
       <translation id="0">
         <text>die Antwort, -en</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>2</errorcount>
+          <date>2025-11-30T19:06:50</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>válasz</text>
@@ -8730,6 +8890,14 @@
     <entry id="429">
       <translation id="0">
         <text>die Idee, -n</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-11-30T19:02:41</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>ötlet</text>
@@ -8746,6 +8914,14 @@
     <entry id="431">
       <translation id="0">
         <text>die Katze, -n</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-11-30T19:07:24</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>macska</text>
@@ -8770,6 +8946,14 @@
     <entry id="434">
       <translation id="0">
         <text>die Farbe, -n</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>4</errorcount>
+          <date>2025-11-30T19:14:15</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>szín</text>
@@ -8810,6 +8994,14 @@
     <entry id="439">
       <translation id="0">
         <text>der Regen, -</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>2</errorcount>
+          <date>2025-11-30T19:10:47</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>eső</text>
@@ -8826,6 +9018,14 @@
     <entry id="441">
       <translation id="0">
         <text>der Berg, -e</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2025-11-30T19:05:08</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>hegy</text>
@@ -8842,6 +9042,14 @@
     <entry id="443">
       <translation id="0">
         <text>der Urlaub, -e</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>6</count>
+          <errorcount>4</errorcount>
+          <date>2025-11-30T19:05:01</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>szabadság, nyaralás</text>
@@ -8858,6 +9066,14 @@
     <entry id="445">
       <translation id="0">
         <text>die Aufgabe, -n</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
+          <errorcount>0</errorcount>
+          <date>2025-11-30T19:03:14</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>feladat</text>
@@ -8866,6 +9082,14 @@
     <entry id="446">
       <translation id="0">
         <text>die Klassenarbeit, -en</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>7</count>
+          <errorcount>5</errorcount>
+          <date>2025-11-30T19:10:33</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>dolgozat</text>
@@ -8882,6 +9106,14 @@
     <entry id="448">
       <translation id="0">
         <text>das Wachstum</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>10</count>
+          <errorcount>8</errorcount>
+          <date>2025-11-30T19:08:59</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>növekedés</text>
@@ -8890,6 +9122,14 @@
     <entry id="449">
       <translation id="0">
         <text>das Wetter, -</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>5</count>
+          <errorcount>3</errorcount>
+          <date>2025-11-30T19:02:55</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>időjárás</text>
@@ -8994,6 +9234,14 @@
     <entry id="462">
       <translation id="0">
         <text>der Text, -e</text>
+        <grade>
+          <pregrade>0</pregrade>
+          <currentgrade>2</currentgrade>
+          <count>1</count>
+          <errorcount>0</errorcount>
+          <date>2025-11-30T19:06:07</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>szöveg</text>
@@ -9002,6 +9250,14 @@
     <entry id="463">
       <translation id="0">
         <text>die Entscheidung, -en</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>3</errorcount>
+          <date>2025-11-30T19:12:47</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>döntés</text>
@@ -9026,6 +9282,14 @@
     <entry id="466">
       <translation id="0">
         <text>der Mensch, -en</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-11-30T18:57:35</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>ember</text>
@@ -9034,6 +9298,14 @@
     <entry id="467">
       <translation id="0">
         <text>der Schauspieler, -</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-11-30T19:06:18</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>színész</text>
@@ -9050,6 +9322,14 @@
     <entry id="469">
       <translation id="0">
         <text>die Situation, -en</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2025-11-30T19:11:26</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>helyzet</text>
@@ -9066,6 +9346,14 @@
     <entry id="471">
       <translation id="0">
         <text>die Folge, -n</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>7</count>
+          <errorcount>6</errorcount>
+          <date>2025-11-30T19:15:04</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>következmény</text>
@@ -9077,6 +9365,14 @@
     <entry id="472">
       <translation id="0">
         <text>die Prognose, -n</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>4</count>
+          <errorcount>3</errorcount>
+          <date>2025-11-30T19:13:24</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>előrejelzés</text>
@@ -9101,6 +9397,14 @@
     <entry id="475">
       <translation id="0">
         <text>der Gast, Gäste</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>2</count>
+          <errorcount>1</errorcount>
+          <date>2025-11-30T19:01:27</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>vendég</text>
@@ -9109,6 +9413,14 @@
     <entry id="476">
       <translation id="0">
         <text>das Kind, -er</text>
+        <grade>
+          <pregrade>2</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>1</errorcount>
+          <date>2025-11-30T19:06:27</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>gyerek</text>
@@ -9117,6 +9429,14 @@
     <entry id="477">
       <translation id="0">
         <text>der Fehler, -</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>3</count>
+          <errorcount>2</errorcount>
+          <date>2025-11-30T19:15:15</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>hiba</text>
@@ -9413,7 +9733,6 @@
     </container>
     <container>
       <name>Szavak 3</name>
-      <inpractice>true</inpractice>
       <entry id="261"/>
       <entry id="262"/>
       <entry id="263"/>
