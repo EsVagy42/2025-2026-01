@@ -6,7 +6,7 @@
     <title>Német gyakorlás</title>
     <author>EsVagy</author>
     <license>Public Domain</license>
-    <date>2025-12-01</date>
+    <date>2025-12-02</date>
     <category>Languages</category>
   </information>
   <identifiers>
@@ -8418,6 +8418,14 @@
     <entry id="387">
       <translation id="0">
         <text>lang</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-02T18:09:00</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>hosszú</text>
@@ -8477,9 +8485,9 @@
         <grade>
           <pregrade>1</pregrade>
           <currentgrade>0</currentgrade>
-          <count>9</count>
-          <errorcount>7</errorcount>
-          <date>2025-12-01T18:52:01</date>
+          <count>11</count>
+          <errorcount>8</errorcount>
+          <date>2025-12-02T18:10:46</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8588,10 +8596,10 @@
         <text>kalt</text>
         <grade>
           <pregrade>0</pregrade>
-          <currentgrade>2</currentgrade>
-          <count>1</count>
+          <currentgrade>3</currentgrade>
+          <count>2</count>
           <errorcount>0</errorcount>
-          <date>2025-11-30T19:05:37</date>
+          <date>2025-12-02T18:10:41</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8675,11 +8683,11 @@
       <translation id="0">
         <text>müde</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>5</count>
           <errorcount>1</errorcount>
-          <date>2025-12-01T20:03:39</date>
+          <date>2025-12-02T18:08:51</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8845,9 +8853,9 @@
         <grade>
           <pregrade>1</pregrade>
           <currentgrade>0</currentgrade>
-          <count>8</count>
-          <errorcount>7</errorcount>
-          <date>2025-12-01T18:55:20</date>
+          <count>9</count>
+          <errorcount>8</errorcount>
+          <date>2025-12-02T18:12:16</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8907,11 +8915,11 @@
       <translation id="0">
         <text>hungrig</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>1</errorcount>
-          <date>2025-12-01T18:55:30</date>
+          <date>2025-12-02T18:10:02</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8941,9 +8949,9 @@
         <grade>
           <pregrade>1</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
-          <errorcount>2</errorcount>
-          <date>2025-11-30T19:06:50</date>
+          <count>5</count>
+          <errorcount>3</errorcount>
+          <date>2025-12-02T18:13:45</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8955,11 +8963,11 @@
       <translation id="0">
         <text>die Idee, -n</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>5</count>
           <errorcount>2</errorcount>
-          <date>2025-12-01T18:58:00</date>
+          <date>2025-12-02T18:10:09</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -8987,11 +8995,11 @@
       <translation id="0">
         <text>die Katze, -n</text>
         <grade>
-          <pregrade>3</pregrade>
+          <pregrade>4</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>5</count>
           <errorcount>1</errorcount>
-          <date>2025-12-01T18:51:37</date>
+          <date>2025-12-02T18:09:28</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -9059,11 +9067,11 @@
       <translation id="0">
         <text>die Hose, -n</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>2</count>
+          <count>3</count>
           <errorcount>1</errorcount>
-          <date>2025-12-01T18:46:54</date>
+          <date>2025-12-02T18:13:58</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -9075,11 +9083,11 @@
       <translation id="0">
         <text>der Regen, -</text>
         <grade>
-          <pregrade>2</pregrade>
+          <pregrade>1</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
-          <errorcount>2</errorcount>
-          <date>2025-12-01T18:51:09</date>
+          <count>6</count>
+          <errorcount>3</errorcount>
+          <date>2025-12-02T18:09:21</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -9107,11 +9115,11 @@
       <translation id="0">
         <text>der Berg, -e</text>
         <grade>
-          <pregrade>2</pregrade>
+          <pregrade>3</pregrade>
           <currentgrade>0</currentgrade>
-          <count>4</count>
+          <count>5</count>
           <errorcount>2</errorcount>
-          <date>2025-12-01T18:58:11</date>
+          <date>2025-12-02T18:10:14</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -9139,11 +9147,11 @@
       <translation id="0">
         <text>der Urlaub, -e</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>8</count>
+          <count>9</count>
           <errorcount>5</errorcount>
-          <date>2025-12-01T18:56:23</date>
+          <date>2025-12-02T18:12:30</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -9362,6 +9370,14 @@
     <entry id="461">
       <translation id="0">
         <text>der Gedanke, -n</text>
+        <grade>
+          <pregrade>1</pregrade>
+          <currentgrade>0</currentgrade>
+          <count>1</count>
+          <errorcount>1</errorcount>
+          <date>2025-12-02T18:12:56</date>
+          <interval>0</interval>
+        </grade>
       </translation>
       <translation id="1">
         <text>gondolat</text>
@@ -9389,9 +9405,9 @@
         <grade>
           <pregrade>1</pregrade>
           <currentgrade>0</currentgrade>
-          <count>5</count>
-          <errorcount>4</errorcount>
-          <date>2025-12-01T18:51:55</date>
+          <count>6</count>
+          <errorcount>5</errorcount>
+          <date>2025-12-02T18:10:37</date>
           <interval>0</interval>
         </grade>
       </translation>
@@ -9483,11 +9499,11 @@
       <translation id="0">
         <text>die Folge, -n</text>
         <grade>
-          <pregrade>1</pregrade>
+          <pregrade>2</pregrade>
           <currentgrade>0</currentgrade>
-          <count>8</count>
+          <count>9</count>
           <errorcount>7</errorcount>
-          <date>2025-12-01T18:53:17</date>
+          <date>2025-12-02T18:09:59</date>
           <interval>0</interval>
         </grade>
       </translation>

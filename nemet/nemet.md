@@ -910,3 +910,58 @@ Akkor használjuk, amikor ismert/konkrét az alany.
 - Sie/Sie können.
 
 - Az ige a mondat végére kerül, mindig egy igét ragozunk.
+
+# 18. óra
+
+## Színek
+
+schwarz
+: fekete
+
+braun
+: barna
+
+rot
+: piros
+
+grün
+: zöld
+
+blau
+: kék
+
+gelb
+: sárga
+
+orange
+: narancs
+
+lila
+: lila
+
+rosa
+: rózsaszín
+
+grau
+: szürke
+
+weiß
+: fehér
+
+hell
+: világos
+
+dunkel
+: sötét
+
+gold
+: arany
+
+silber
+: ezüst
+
+cyan
+: cián
+
+magenta
+: magenta
