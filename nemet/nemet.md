@@ -965,3 +965,128 @@ cyan
 
 magenta
 : magenta
+
+# 19. óra
+
+r Tag, -e
+: nap
+
+e Woche, -n
+: hét
+
+r Montag
+: hétfő
+
+r Dienstag
+: kedd
+
+r Mittwoch
+: szerda
+
+r Donnerstag
+: csütörtök
+
+r Freitag
+: péntek
+
+r Samstag
+: szombad
+
+r Sonntag
+: vasárnap
+
+e Sonne
+: nap
+
+am Montag
+: hétfőn
+
+jeden Montag
+: minden hétfőn
+
+montags
+: hétfőnként
+
+dienstags
+: keddenként
+
+mittwochs
+: szerdánként
+
+donnerstags
+: csütörtökönként
+
+r Januar / Jänner
+: január
+
+r Februar
+: február
+
+r März
+: március
+
+r April
+: április
+
+r Mai
+: május
+
+r Juni
+: június
+
+r Juli
+: július
+
+r August
+: augusztus
+
+r September
+: szeptember
+
+r Oktober
+: október
+
+r November
+: november
+
+r Dezember
+: december
+
+r Winter
+: tél
+
+r Frühling
+: tavasz
+
+r Sommer
+: nyár
+
+r Herbst
+: ősz
+
+im April/Frühlig
+: áprilisban/tavasszal
+
+r Morgen
+: reggel
+
+r Vormittag
+: dél előtt
+
+r Mittag
+: dél
+
+r Nachmittag
+: dél után
+
+r Abend
+: este
+
+e Nacht
+: este
+
+am Morgen
+: reggel
+
+in der Nacht
+: éjjel
