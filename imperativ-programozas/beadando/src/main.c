@@ -1,17 +1,18 @@
-#include "drawer.h"
-#include "parser.h"
-#include "string_vector.h"
+#include "alphabet.h"
+#include "dyn_str.h"
 #include <stdio.h>
 
 int main() {
-  FILE *alphabet_file = fopen("ascii_input.txt", "r");
-  string_vector_t alphabet_string = string_vector_new();
-  char next;
-  while ((next = fgetc(alphabet_file)) != EOF) {
-    string_vector_push_back(alphabet_string, next);
+  FILE *f = fopen("ascii_input.txt", "r");
+  dyn_str file_contents = dyn_str_new();
+  char ch;
+  while ((ch = fgetc(f)) != EOF) {
+    dyn_str_push_back(&file_contents, ch);
   }
-  fclose(alphabet_file);
-  alphabet_t alphabet = alphabet_from(string_vector_get(alphabet_string));
 
-  string_vector_t s = draw_ascii_art("cicca", alphabet);
+  alphabet abc = alphabet_from(dyn_str_string(&file_contents));
+  dyn_str output = alphabet_draw(&abc, "Hello, world!");
+  printf("%s\n", dyn_str_string(&output));
+
+  fclose(f);
 }
