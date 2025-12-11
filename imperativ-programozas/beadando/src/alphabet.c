@@ -4,6 +4,9 @@
 
 letter letter_from(char *c, int width, int height) {
   letter l = {width, height, (char *)malloc(sizeof(char) * width * height)};
+  if (l.data == NULL) {
+    exit(3);
+  }
   char *dest = l.data;
   for (int y = 0; y < height; y++) {
     for (int x = 0; x < width; x++) {
@@ -21,7 +24,7 @@ letter letter_from(char *c, int width, int height) {
 void letter_free(letter *l) {
   free(l->data);
   *l = (letter){0, 0, NULL};
-};
+}
 
 char *letter_get(letter *l, int x, int y) { return l->data + y * l->width + x; }
 
@@ -60,6 +63,9 @@ dyn_str alphabet_draw(alphabet *abc, char *s) {
   dyn_str out = dyn_str_new();
   for (int l = 0; l < abc->height; l++) {
     for (char *c = s; *c != '\0'; c++) {
+      if (*c < 'a' || *c > 'z') {
+        continue;
+      }
       letter *let = alphabet_get_letter(abc, *c);
       char *letline = letter_get(let, 0, l);
       for (char *letc = letline; letc < letline + let->width; letc++) {

@@ -2,8 +2,12 @@
 #include <stdlib.h>
 
 dyn_str dyn_str_new() {
-  return (dyn_str){STARTING_STR_SIZE, 0,
-                   malloc(STARTING_STR_SIZE * sizeof(char))};
+  dyn_str s =
+      (dyn_str){STARTING_STR_SIZE, 0, malloc(STARTING_STR_SIZE * sizeof(char))};
+  if (s.str == NULL) {
+    exit(3);
+  }
+  return s;
 }
 
 void dyn_str_free(dyn_str *s) {
